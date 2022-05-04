@@ -2,7 +2,7 @@
 
 Every one of the 300+ 10-minute ambience tracks from [Tabletop Audio](https://tabletopaudio.com/) in a single repo.
 
-NB: I'm not affiliated with [Tabletop Audio](https://tabletopaudio.com/). These tracks are available freely under a [BY-NC-ND license](#license). Additional variants of each track (not included here) are available via [the author's Patreon](https://www.patreon.com/tabletopaudio) - please consider supporting them if you enjoy their work!
+NB: I'm not affiliated with [Tabletop Audio](https://tabletopaudio.com/). These tracks are available freely under a [CC-BY-NC-ND license](#license). Additional variants of each track (not included here) are available via [the author's Patreon](https://www.patreon.com/tabletopaudio) - please consider supporting them if you enjoy their work!
 
 ## Contents
 
