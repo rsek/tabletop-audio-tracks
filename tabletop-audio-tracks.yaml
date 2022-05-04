@@ -1,0 +1,4680 @@
+tracks:
+  - $id: song_1
+    tags:
+      - deep
+      - technology
+      - alien
+      - computers
+      - reactor
+    title: The Inner Core
+    description: |-
+      You're deep into it this time. The center of everything. The world around you thrums with energy and portent...
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/1_The_Inner_Core.mp3
+    file: ./tracks/1_The_Inner_Core.mp3
+  - $id: song_2
+    tags:
+      - bubbles
+      - music
+      - ethereal
+      - mystical
+      - sand
+      - magic
+      - Alchemists
+    title: Bubbling Pools
+    description: |-
+      The stench of life fills the air. Viscous fluid bubbles to the surface in great exhortations of gas and moisture. Something about these pools is familiar..
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/2_Bubbling_Pools.mp3
+    file: ./tracks/2_Bubbling_Pools.mp3
+  - $id: song_3
+    tags:
+      - music
+      - brooding
+      - dark
+      - sad
+      - suspense
+      - drums
+      - abstract
+    title: March of the Faithful
+    description: |-
+      The devoted stream into the distance. The dust from their sandaled feet blocks out the sun for miles around. There's no stopping them. They believe.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/3_The_March_of_the_Faithful.mp3
+    file: ./tracks/3_The_March_of_the_Faithful.mp3
+  - $id: song_4
+    tags:
+      - brooding
+      - sad
+      - brave
+      - uplifting
+    title: Solemn Vow
+    description: |-
+      When death is near, and retreat is not an option. Only the bravest have any purchase on the word "honor".
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/4_Solemn_Vow-a.mp3
+    file: ./tracks/4_Solemn_Vow-a.mp3
+  - $id: song_5
+    tags:
+      - arabian
+      - dune
+      - market
+      - suspense
+      - alien
+      - magic
+      - Voyages of Marco Polo
+    title: Desert Bazaar
+    description: |-
+      Everything about this desert planet is familiar, but different at the same time. The pungent aroma of spice fills you with the thrill of adventure.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/5_Desert_Bazaar.mp3
+    file: ./tracks/5_Desert_Bazaar.mp3
+  - $id: song_6
+    tags:
+      - dark
+      - void
+      - lonely
+    title: Abyssal Gaze
+    description: |-
+      The blackness of space, the silence of the open sea, the depths of a cave. When you stare into the abyss...you know the rest.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/6_Abyssal_Gaze.mp3
+    file: ./tracks/6_Abyssal_Gaze.mp3
+  - $id: song_7
+    tags:
+      - sand
+      - ethnic
+      - tribal
+      - wind
+      - Forbidden Desert
+    title: The Desert Awaits
+    description: |-
+      The air before you distorts in the heat. The sun has baked the world into an impenetrable crust. Nothing can survive out there for long. Yet out there is where you must go.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/7_The_Desert_Awaits.mp3
+    file: ./tracks/7_The_Desert_Awaits.mp3
+  - $id: song_8
+    tags:
+      - ethereal
+      - deep
+      - brooding
+      - abstract
+      - music
+    title: Dust to Dust
+    description: |-
+      Sometimes the only sure thing is the end. Beyond the adventure, beyond the riches, beyond the fame. Everyone dies.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/8_New_Dust_to_Dust.mp3
+    file: ./tracks/8_New_Dust_to_Dust.mp3
+  - $id: song_9
+    tags:
+      - calm
+      - rain
+      - mourning
+    title: Before the Storm
+    description: |-
+      Sharpen those swords, check the perimeter defences and pray to whatever gods you hold dear. Tomorrow's going to be a big day.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/9_Before_The_Storm.mp3
+    file: ./tracks/9_Before_The_Storm.mp3
+  - $id: song_10
+    tags:
+      - abstract
+      - void
+      - wind
+      - music
+    title: In the Shadows
+    description: |-
+      This seemed like a pretty good place to hide, but now, you're not so sure. There's something familiar about this place. There's also something moving
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/10_In_The_Shadows.mp3
+    file: ./tracks/10_In_The_Shadows.mp3
+  - $id: song_11
+    tags:
+      - brooding
+      - abstract
+      - music
+      - menacing
+      - whispers
+      - strange
+      - ethereal
+    title: Shelter from the Storm
+    description: |-
+      Admittedly, it may not be the perfect spot. But it's a hell of a lot better than out there. At least it's warm and we'll get a chance to rest.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/11_Shelter_from_the_Storm.mp3
+    file: ./tracks/11_Shelter_from_the_Storm.mp3
+  - $id: song_12
+    tags:
+      - ghosts
+      - dark
+      - abstract
+      - music
+      - ethereal
+      - menacing
+      - strange
+      - sarcophagus
+    title: Disembodied Spirits
+    description: |-
+      The night is alive with a thousand tiny voices. It's hard to make out what they're saying. Are they the welcoming committee? Or a warning klaxon.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/12_Disembodied_Spirits.mp3
+    file: ./tracks/12_Disembodied_Spirits.mp3
+  - $id: song_13
+    tags:
+      - dripping
+      - bats
+      - underground
+      - wind
+      - dungeon
+      - music
+      - suspense
+    title: Cave of Time
+    description: |-
+      Deep underground an ancient cavern yawns before you and welcomes you, it's first visitors in a thousand years. The denizens of this place may not agree.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/13_Cave_of_Time.mp3
+    file: ./tracks/13_Cave_of_Time.mp3
+  - $id: song_14
+    tags:
+      - suspense
+      - ethereal
+      - astral
+      - drone
+    title: Protean Fields
+    description: |-
+      A plane beyond your own, filled with darkening swirls of color and mist. A low, pulsing energy embraces your mind and dulls your thoughts.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/14_Protean_Fields.mp3
+    file: ./tracks/14_Protean_Fields.mp3
+  - $id: song_15
+    tags:
+      - spaceship
+      - repair
+      - mechanic
+    title: Alien Machine Shop
+    description: |-
+      You want the latest modifications? You want to squeeze a few more years out of those ancient matter displacers? It's gonna cost you.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/15_Alien_Machine_Shop.mp3
+    file: ./tracks/15_Alien_Machine_Shop.mp3
+  - $id: song_16
+    tags:
+      - spaceship
+      - travel
+      - alien
+      - outpost
+      - spacestation
+      - Among the Stars
+    title: Busy Space Port
+    description: |-
+      The gleaming heart of any worthwhile planet. You can get transport here to just about any place. It's a good spot to meet a pilot, a smuggler, or your next mark. Keep your head down.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/16_Busy_Space_Port.mp3
+    file: ./tracks/16_Busy_Space_Port.mp3
+  - $id: song_17
+    tags:
+      - cantina
+      - bar
+      - music
+      - scum
+      - underworld
+      - star wars
+      - City of Remnants
+    title: Alien Night Club
+    description: |-
+      It's hot, crowded, and swarming with species from every corner of the galaxy. The perfect spot to blend in, fade away or meet the perfect wingman.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/17_Alien_Night_Club.mp3
+    file: ./tracks/17_Alien_Night_Club.mp3
+  - $id: song_18
+    tags:
+      - lovecraft
+      - betrayal
+      - creepy
+      - haunted
+      - abandoned
+      - ghosts
+      - Betrayal at House on the Hill
+      - vampire
+    title: House on the Hill
+    description: |-
+      You've heard the stories all your life. 50 years ago this night, an entire family killed after church one Sunday. Only one survived. 'The baby' still lives there.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/18_House_on_the_Hill.mp3
+    file: ./tracks/18_House_on_the_Hill.mp3
+  - $id: song_19
+    tags:
+      - ships
+      - ocean
+      - navy
+      - naval
+      - wind
+      - waves
+      - seven seas
+      - 50 fathoms
+    title: Age of Sail
+    description: |-
+      Fear not the mountainous waves and perilous winds! For who among us, will journey upon the sea and not gaze, ultimately, upon himself?
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/19_Age_of_Sail.mp3
+    file: ./tracks/19_Age_of_Sail.mp3
+  - $id: song_20
+    tags:
+      - rhythm
+      - drums
+      - chant
+      - tribal
+    title: Dark Continent
+    description: |-
+      In another timeline, in another universe, it was the ancient city-states of Africa which eclipsed Rome as a beacon of civilization, culture . . . and war.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/20_Dark_Continent_aa.mp3
+    file: ./tracks/20_Dark_Continent_aa.mp3
+  - $id: song_21
+    tags:
+      - spaceship
+      - salvage
+      - space opera
+      - reavers
+      - Level 7
+      - Theseus
+      - Legendary Encounters
+    title: Derelict Freighter
+    description: |-
+      The listing hulk of a derelict space craft makes a tempting salvage target. But what happened to her crew? Something is not quite right here.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/21_Derelict_Freighter.mp3
+    file: ./tracks/21_Derelict_Freighter.mp3
+  - $id: song_22
+    tags:
+      - horses
+      - western
+      - cowboys
+      - dusty
+      - town
+      - Carson City
+      - Bang
+      - Spurs
+    title: True West
+    description: |-
+      Sometimes having a price on your head isn't enough to keep you out of town. As long as there's whisky, cards, and the possibility of a payday.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/22_True_West_a.mp3
+    file: ./tracks/22_True_West_a.mp3
+  - $id: song_23
+    tags:
+      - inn
+      - tavern
+      - hearth
+      - food
+      - drink
+    title: The Slaughtered Ox
+    description: |-
+      A horn of mead, a bowl of stew and a hook to hang your 50 feet of rope, The Slaughtered Ox has been catering to the adventuring class for eons.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/23_The_Slaughtered_Ox.mp3
+    file: ./tracks/23_The_Slaughtered_Ox.mp3
+  - $id: song_24
+    tags:
+      - space
+      - weapons
+      - vintage
+      - planet
+      - Alien Frontiers
+    title: Forbidden Galaxy!
+    description: |-
+      Hurtle through the cosmos! Explore unknown worlds! Face fearsome foes from beyond! Set ray-guns to ADVENTURE!
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/24_Forbidden_Galaxy.mp3
+    file: ./tracks/24_Forbidden_Galaxy.mp3
+  - $id: song_25
+    tags:
+      - spacewalk
+      - asteroids
+    title: Deep Space EVA
+    description: |-
+      The deal was simple: 4 years working on a deep space mining operation and you could return to earth a free man. That is, if you survived.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/25_Deep_Space_EVA.mp3
+    file: ./tracks/25_Deep_Space_EVA.mp3
+  - $id: song_26
+    tags:
+      - war
+      - combat
+      - wwii
+      - wwi
+      - tanks
+      - infantry
+      - trenches
+      - Memoir 44
+      - Heroes of Normandie
+    title: Uncommon Valor
+    description: |-
+      Bullets buzz overhead like wasps defending a hive. One last look at the girl in the torn photo. Breathe deep, keep your head down. This is for freedom!
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/26_Uncommon_Valor_a.mp3
+    file: ./tracks/26_Uncommon_Valor_a.mp3
+  - $id: song_27
+    tags:
+      - jungle
+      - birds
+      - insects
+      - trees
+      - forest
+      - Cacao
+      - Relic Runners
+    title: Xingu Nights
+    description: |-
+      Dense, rich and verdant, the forest floor oozes with life and decay. Overhead, the canopy has hidden the sky for millennia.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/27_Xingu_Nights.mp3
+    file: ./tracks/27_Xingu_Nights.mp3
+  - $id: song_28
+    tags:
+      - fragged empire
+      - laboratory
+      - genetics
+      - experiments
+      - Level 7
+      - Theseus
+      - Legendary Encounters
+    title: Nephilim Labs FE
+    description: |-
+      <a href="http://fraggedempire.com"><img src="https://images.tabletopaudio.com/fragged_empire_sm.png"></a>Find out more at <a href="http://fraggedempire.com" class="caption_link">FraggedEmpire.com</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/28_Nephilim_Labs_FE.mp3
+    file: ./tracks/28_Nephilim_Labs_FE.mp3
+  - $id: song_29
+    tags:
+      - fragged empire
+      - spaceship
+      - starship
+      - space opera
+    title: Kaltoran Craft FE
+    description: |-
+      <a href="http://fraggedempire.com"><img src="https://images.tabletopaudio.com/fragged_empire_sm.png"></a>Find out more at <a href="http://fraggedempire.com" class="caption_link">FraggedEmpire.com</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/29_Kaltoran_Craft_FE.mp3
+    file: ./tracks/29_Kaltoran_Craft_FE.mp3
+  - $id: song_30
+    tags:
+      - synthesizer
+      - blade runner
+      - future
+      - city
+      - urban
+      - City of Remnants
+      - cyberpunk
+    title: Los Vangeles 3030
+    description: |-
+      Towering spires of glass, neon and steel - dense air traffic and a constant rain that never cleanses. (Apologies to the Greek.)
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/30_Los_Vangeles_3030.mp3
+    file: ./tracks/30_Los_Vangeles_3030.mp3
+  - $id: song_31
+    tags:
+      - ice
+      - arctic
+      - tundra
+      - wind
+      - snow
+      - cold
+      - Arctic Scavengers
+      - Dead of Winter
+    title: Frozen Wastes
+    description: |-
+      Visibility and temperatures plummeting by the second, your only thought is survival. But in your heart you know - you've been through worse.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/31_Frozen_Wastes.mp3
+    file: ./tracks/31_Frozen_Wastes.mp3
+  - $id: song_32
+    tags:
+      - urban
+      - streets
+      - traffic
+      - nightlife
+      - Police Precinct
+    title: City and the City
+    description: |-
+      Where else can you get a roll of toilet paper, a falafel and a bootleg DVD at 3am?
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/32_City_and_the_City.mp3
+    file: ./tracks/32_City_and_the_City.mp3
+  - $id: song_33
+    tags:
+      - space
+      - outerspace
+      - quiet
+      - dark
+      - astronaut
+      - spacewalk
+    title: Far Above the World
+    description: |-
+      "Here am I, floating round my tin can". Or if you prefer - "That's funny. The damage doesn't look as bad from out here."
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/33_Far_Above_the_World.mp3
+    file: ./tracks/33_Far_Above_the_World.mp3
+  - $id: song_34
+    tags:
+      - battle
+      - weapons
+      - armor
+      - marching
+      - army
+      - armies
+      - battlefield
+      - combat
+    title: Clash of Kings
+    description: |-
+      Two great armies lumber toward each other like centipedes of metal, flesh and bone. The ensuing conflict fuels song, poetry and legend for centuries.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/34_Clash_of_Kings.mp3
+    file: ./tracks/34_Clash_of_Kings.mp3
+  - $id: song_35
+    tags:
+      - swamp
+      - jungle
+      - insects
+      - water
+      - humid
+      - sticky
+    title: Swamplandia
+    description: |-
+      Hot, humid and swarming with insects of every kind. You'd go around if you could, but you know the only path is through.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/35_Swamplandia.mp3
+    file: ./tracks/35_Swamplandia.mp3
+  - $id: song_36
+    tags:
+      - water
+      - ocean
+      - beach
+      - gulls
+      - birds
+      - sand
+      - dunes
+      - surf
+      - wind
+      - breeze
+    title: Down by the Sea
+    description: |-
+      Vast expanses of sand, hypnotic surf and the cries of gulls on the wing. Now there's that small issue of getting off this island paradise alive...
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/36_Down_by_the_Sea.mp3
+    file: ./tracks/36_Down_by_the_Sea.mp3
+  - $id: song_37
+    tags:
+      - underground
+      - dark
+      - grave
+      - tomb
+      - skeletons
+      - skulls
+      - burial
+      - sarcophagus
+    title: Catacombs
+    description: |-
+      Dimly lit and twisting. The passages lead deeper and deeper under the city. The skulls of heroes past look on with blank anticipation.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/37_Catacombs.mp3
+    file: ./tracks/37_Catacombs.mp3
+  - $id: song_38
+    tags:
+      - underwater
+      - water
+      - deep
+      - dive
+      - scuba
+      - darkness
+      - ocean floor
+      - diver
+      - drown
+      - Aquasphere
+    title: Into the Deep
+    description: |-
+      If the darkness, pressure and isolation don't get you, the shadows in the trench just might. This kind of work isn't for everyone.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/38_Into_the_Deep.mp3
+    file: ./tracks/38_Into_the_Deep.mp3
+  - $id: song_39
+    tags:
+      - cult
+      - chant
+      - ritual
+      - dark energy
+      - doomsday
+      - church
+    title: Temple of the Eye
+    description: |-
+      Hooded figures gather around a gleaming eye, smoke wriggles like serpents to the ceiling. What dark energies have these voices awakened?
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/39_Temple_of_the_Eye.mp3
+    file: ./tracks/39_Temple_of_the_Eye.mp3
+  - $id: song_40
+    tags:
+      - downpour
+      - storm
+      - monsoon
+      - water
+      - productivty
+    title: The Long Rain
+    description: |-
+      "It was a hard rain, a perpetual rain, a sweating and steaming rain; it was a mizzle, a downpour, a fountain . . ." - Ray Bradbury
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/40_The_Long_Rain.mp3
+    file: ./tracks/40_The_Long_Rain.mp3
+  - $id: song_41
+    tags:
+      - deck
+      - space
+      - spaceship
+      - enterprise
+      - star trek
+      - Space Cadets
+    title: Starship Bridge
+    description: |-
+      The hum of engines, the vibrations of deck plates - as familiar to you as a childhood lullaby. Order, duty and experience keeps ships in the sky.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/41_Starship_Bridge.mp3
+    file: ./tracks/41_Starship_Bridge.mp3
+  - $id: song_42
+    tags:
+      - cthulhu
+      - cult
+      - lovecraft
+      - demon
+      - monster
+      - Arkham
+      - Eldritch
+      - Elder Scrolls
+    title: Rise of the Ancients
+    description: |-
+      “The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown” - H.P. Lovecraft
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/42_Rise_of_the_Ancients.mp3
+    file: ./tracks/42_Rise_of_the_Ancients.mp3
+  - $id: song_43
+    tags:
+      - urban
+      - future
+      - futuristic
+    title: Dome City Center
+    description: |-
+      Amid the bustle of commerce, life under the dome runs smoothly. It almost makes one forget the hostile environment beyond.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/43_Dome_City_Center.mp3
+    file: ./tracks/43_Dome_City_Center.mp3
+  - $id: song_44
+    tags:
+      - jack the ripper
+      - Sherlock Holmes
+      - city
+      - streets
+      - urban
+      - 19th century
+    title: Victorian London
+    description: |-
+      London, 1851. Streets awash in noise - Merchants, organ grinders, Hansom cabs and the ever present din of humanity. Thank god for the rain.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/44_Victorian_London.mp3
+    file: ./tracks/44_Victorian_London.mp3
+  - $id: song_45
+    tags:
+      - horses
+      - japanese
+      - army
+      - bivouac
+      - camp
+      - feudalism
+      - warlords
+      - mongol
+      - asia
+      - asian
+      - Yedo
+      - Shogun
+    title: Samurai HQ
+    description: |-
+      The collapse of Japanese aristocratic rule ushered in an age of feudalism and chaos. Wealthy regional lords used Samurai as their private armies.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/45_Samurai_HQ.mp3
+    file: ./tracks/45_Samurai_HQ.mp3
+  - $id: song_46
+    tags:
+      - church
+      - holy
+      - paladin
+      - ethereal
+      - chant
+      - monks
+      - prayer
+      - temple
+    title: Cathedral
+    description: |-
+      Cavernous, cold and quiet. Ethereal chants and muted footsteps. Paladins welcome.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/46_Cathedral.mp3
+    file: ./tracks/46_Cathedral.mp3
+  - $id: song_47
+    tags:
+      - fight
+      - battle
+      - dragons
+      - quest
+      - Dragon Rampage
+      - Dragon Run
+      - combat
+    title: There be Dragons!
+    description: |-
+      Wiping the last of the Kobold blood from your axe, you glare in the direction of the Cleric. "Enough of this nonsense, let's go get us a real fight!"
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/47_There_be_Dragons.mp3
+    file: ./tracks/47_There_be_Dragons.mp3
+  - $id: song_48
+    tags:
+      - ox
+      - cart
+      - wagon
+      - travel
+      - horses
+    title: Overland with Oxen
+    description: |-
+      Your party has assembled, your cart is loaded with supplies, your oxen are sturdy. Just keep your eyes peeled for trouble on the road.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/48_Overland_with_Oxen.mp3
+    file: ./tracks/48_Overland_with_Oxen.mp3
+  - $id: song_49
+    tags:
+      - dark
+      - dripping
+      - stream
+      - cavern
+      - monsters
+      - kobolds
+    title: Goblin's Cave
+    description: |-
+      Journey up the winding path, follow the stream into the mouth of the cavern. Light your torches. Proceed...cautiously.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/49_Goblin's_Cave.mp3
+    file: ./tracks/49_Goblin's_Cave.mp3
+  - $id: song_50
+    tags:
+      - action
+      - city
+      - explosions
+      - thriller
+    title: Super Hero!
+    description: |-
+      Like a Michael Bay movie in your head. Calling all heroes. The villainous tropes are on the loose!
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/50_Super_Hero.mp3
+    file: ./tracks/50_Super_Hero.mp3
+  - $id: song_51
+    tags:
+      - woods
+      - campfire
+      - fire
+      - horses
+      - forest
+    title: Woodland Campsite
+    description: |-
+      Every adventurer needs downtime. Here's a nice spot in the woods to rest the horses and enjoy a hot meal over a fire.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/51_Woodland_Campsite.mp3
+    file: ./tracks/51_Woodland_Campsite.mp3
+  - $id: song_52
+    tags:
+      - factory
+      - industrial
+      - abandoned
+    title: Warehouse 13
+    description: |-
+      An old cement factory on the outskirts of town. Power still works. Sort of. The perfect spot to disappear - or make things disappear.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/52_Warehouse_13.mp3
+    file: ./tracks/52_Warehouse_13.mp3
+  - $id: song_53
+    tags:
+      - orient express
+      - rail
+      - railroad
+      - mystery
+      - dining
+      - Ticket to Ride
+      - Mystery Express
+    title: Strangers on a Train
+    description: |-
+      With its lush interiors, fine dining and finer passengers, the Orient Express was the most well-appointed overland transportation available.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/53_Strangers_on_a_Train.mp3
+    file: ./tracks/53_Strangers_on_a_Train.mp3
+  - $id: song_54
+    tags:
+      - inn
+      - hearth
+      - food
+      - drink
+    title: Mountain Tavern
+    description: |-
+      An oasis of warmth and hospitality in a harsh and unforgiving environment. Warm up in front of the fire, and share a mug of spiced wine.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/54_Mountain_Tavern.mp3
+    file: ./tracks/54_Mountain_Tavern.mp3
+  - $id: song_55
+    tags:
+      - cave
+      - freezing
+      - cold
+      - snow
+      - echo
+      - frozen
+      - winter
+    title: Ice Cavern
+    description: |-
+      Soaring vaults of ice echo and groan, amplifying the freezing wind and hollow noises within.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/55_Ice_Cavern.mp3
+    file: ./tracks/55_Ice_Cavern.mp3
+  - $id: song_56
+    tags:
+      - medieval
+      - town
+      - city
+      - Village
+    title: Medieval Town
+    description: |-
+      Life inside the walls, where commerce, struggle and celebration mingle with honor, chaos and crime.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/56_Medieval_Town.mp3
+    file: ./tracks/56_Medieval_Town.mp3
+  - $id: song_57
+    tags:
+      - roman
+      - rome
+      - gladiators
+      - combat
+      - fight
+      - arena
+      - Spartacus
+    title: Colosseum
+    description: |-
+      Equal parts blood sport, theater and ritual murder. The Roman gladiators entertained the populace for over 600 years.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/57_Colosseum.mp3
+    file: ./tracks/57_Colosseum.mp3
+  - $id: song_58
+    tags:
+      - terror
+      - halloween
+      - scary
+    title: Terror
+    description: |-
+      There are doors you should not open. Places you should never see. Turn back... Now. Halloween 2014
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/58_Terror.mp3
+    file: ./tracks/58_Terror.mp3
+  - $id: song_59
+    tags:
+      - dinosaurs
+      - jungle
+      - Evolution
+      - Evo
+      - Triassic Terror
+      - Raptor
+    title: Dinotopia
+    description: |-
+      Across space and time, a verdant world has evolved without mankind. How can a planet be simultaneously peaceful and deadly?
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/59_Dinotopia.mp3
+    file: ./tracks/59_Dinotopia.mp3
+  - $id: song_60
+    tags:
+      - rain
+      - wind
+      - spooky
+      - weather
+      - Betrayal at House on the Hill
+      - sleeping
+      - vampire
+    title: Dark and Stormy
+    description: |-
+      "It was a dark and stormy night, the rain fell in torrents -- except at occasional intervals when it was checked by a violent gust of wind..." E. Bulwer-Lytton
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/60_Dark_and_Stormy.mp3
+    file: ./tracks/60_Dark_and_Stormy.mp3
+  - $id: song_61
+    tags:
+      - space
+      - future
+      - stars
+      - trek
+      - starfleet
+    title: Orbital Platform
+    description: |-
+      The massive viewports on this orbital platform allow for breathtaking views of this sectors' impressive stellar phenomena.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/61_Orbital_Platform.mp3
+    file: ./tracks/61_Orbital_Platform.mp3
+  - $id: song_62
+    tags:
+      - travel
+      - adventure
+      - peaceful
+      - tolkien
+      - birds
+      - breeze
+      - sleeping
+      - elves
+      - hobbits
+    title: "Middle Earth:Dawn"
+    description: |-
+      When not being overrun by filthy orcses, Middle Earth can be a beautiful place.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/62_Middle_Earth_Dawn.mp3
+    file: ./tracks/62_Middle_Earth_Dawn.mp3
+  - $id: song_63
+    tags:
+      - boats
+      - ships
+      - industry
+      - docks
+      - harbor
+      - freight
+      - cargo
+      - Shipyard
+    title: Industrial Shipyard
+    description: |-
+      Massive derricks heave containers from cargo ships overhead, while all manner of human activity occurs down below.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/63_Industrial_Shipyard.mp3
+    file: ./tracks/63_Industrial_Shipyard.mp3
+  - $id: song_64
+    tags:
+      - journey
+      - travel
+      - wind
+      - rain
+      - snow
+      - horses
+    title: Mountain Pass
+    description: |-
+      A treacherous path through towering mountain peaks is the only way through. Pray your supplies don't run out, and your party stays together.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/64_Mountain_Pass.mp3
+    file: ./tracks/64_Mountain_Pass.mp3
+  - $id: song_65
+    tags:
+      - adventure
+      - treasure
+      - underground
+      - quest
+    title: Dungeon I
+    description: |-
+      You and your party creep along the twisting, torch-lit hallways of the abandoned mine. Pro tip: let the barbarian lead.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/65_Dungeon_I.mp3
+    file: ./tracks/65_Dungeon_I.mp3
+  - $id: song_66
+    tags:
+      - party
+      - 18th century
+      - france
+      - french
+      - whispers
+      - baroque
+      - classical
+      - wigs
+      - parlor
+      - court
+    title: Royal Salon
+    description: |-
+      The Royal Salon, France, early 18th Century: a minefield of verbal sparring, whispered plots and social combat. Tread carefully
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/66_Royal_Salon.mp3
+    file: ./tracks/66_Royal_Salon.mp3
+  - $id: song_67
+    tags:
+      - insane
+      - crazy
+      - spooky
+      - madness
+      - bedlam
+      - arkham
+      - straight jackets
+      - T.I.M.E. Stories
+      - TIME Stories
+    title: Asylum
+    description: |-
+      You don't belong here... You don't know how you got here... There's been a mistake...Yeah, that's what everybody says.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/67_Asylum.mp3
+    file: ./tracks/67_Asylum.mp3
+  - $id: song_68
+    tags:
+      - 40s
+      - 50s
+      - 30s
+      - gangster
+      - mobster
+      - bogart
+      - vintage
+      - 1940s
+      - 1930s
+    title: 1940's Office
+    description: |-
+      "It ain't ritzy, and the pay is peanuts, but it's a decent place to get some shut-eye 'til knock-off time".
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/68_1940s_Office.mp3
+    file: ./tracks/68_1940s_Office.mp3
+  - $id: song_69
+    tags:
+      - quiet
+      - breeze
+      - trees
+      - birds
+      - wind
+      - sleeping
+    title: "Forest: Night"
+    description: |-
+      Gentle breezes wafting through the trees overhead, the sounds of the night spill forth like jewels.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/69_Forest_Night.mp3
+    file: ./tracks/69_Forest_Night.mp3
+  - $id: song_70
+    tags:
+      - trains
+      - engines
+      - locomotive
+      - train station
+      - train platform
+      - Ticket to Ride
+      - Railways of the World
+    title: The Age of Steam
+    description: |-
+      A long hiss from a massive locomotive blankets the platform in thick white mist while porters scurry about with baggage carts. "Tickets please!"
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/70_Age_of_Steam.mp3
+    file: ./tracks/70_Age_of_Steam.mp3
+  - $id: song_71
+    tags:
+      - smaug
+      - treasure
+      - gold
+      - red dragon
+      - tiamat
+      - tolkien
+      - Dragon Rampage
+      - Dragon Run
+    title: Sleeping Dragon
+    description: |-
+      Coiled and half buried on a towering mound of treasure, an ancient red dragon slumbers. You should probably let it be.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/71_Sleeping_Dragon.mp3
+    file: ./tracks/71_Sleeping_Dragon.mp3
+  - $id: song_72
+    tags:
+      - godzilla
+      - tokyo
+      - japan
+      - king kong
+      - destruction
+      - chaos
+      - city
+      - urban
+      - King of Tokyo
+      - King of New York
+      - Rampage
+    title: Monster Attack!
+    description: |-
+      Panic! Offshore nuclear testing has resulted in a wave of monster attacks throughout the city! Run for your lives!
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/72_Monster_Attack.mp3
+    file: ./tracks/72_Monster_Attack.mp3
+  - $id: song_73
+    tags:
+      - books
+      - quills
+      - scholars
+      - study
+      - peaceful
+      - quiet
+      - pages
+      - arcane
+    title: Medieval Library
+    description: |-
+      Bearded men hunch over scrolls and books, quills scratching quietly. Outside the weather turns slightly and no one notices. Shhh!
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/73_Medieval_Library.mp3
+    file: ./tracks/73_Medieval_Library.mp3
+  - $id: song_74
+    tags:
+      - walking dead
+      - undead
+      - halloween
+      - brains
+      - flesh
+      - monster
+      - Dead of Winter
+      - Zombicide
+      - T.I.M.E. Stories
+      - Time Stories
+    title: Zombies!
+    description: |-
+      A shambling mass of former humans lurches through the snow, drawn to the scent of your flesh. Can you hold them off?
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/74_Zombies!.mp3
+    file: ./tracks/74_Zombies!.mp3
+  - $id: song_75
+    tags:
+      - boats
+      - harbor
+      - shady
+      - water
+      - sea
+      - ships
+      - Le Havre
+      - Francis Drake
+    title: Docks District
+    description: |-
+      The person you're supposed to meet is always somewhere in the docks district. Gather your party and venture forth!
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/75_Docks_District.mp3
+    file: ./tracks/75_Docks_District.mp3
+  - $id: song_76
+    tags:
+      - spells
+      - potions
+      - laborotory
+      - bubbling
+      - magic
+      - Alchemists
+    title: Alchemist's Lab
+    description: |-
+      Through the haze of bubbling flasks, cages of animals and reams of parchment, a hooded figure bends low over a table muttering strange words.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/76_Alchemists_Lab.mp3
+    file: ./tracks/76_Alchemists_Lab.mp3
+  - $id: song_77
+    tags:
+      - apocalypse
+      - post-apocalyptic
+      - desolate
+      - eerie
+      - amusement park
+      - dystopia
+    title: Abandoned Fair
+    description: |-
+      Twisting arcs of rusted steel rise, wavelike, over a ruined landscape. A windblown monument to happier times.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/77_Abandoned_Fair.mp3
+    file: ./tracks/77_Abandoned_Fair.mp3
+  - $id: song_78
+    tags:
+      - blimp
+      - dirigible
+      - victorian
+      - jules verne
+      - Kings of Air and Steam
+    title: Steampunk Airship
+    description: |-
+      Designed by the greatest watchmaker in Olde-Town, the airship "Gulliver" will ferry you above the fray in style!
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/78_Steampunk_Airship.mp3
+    file: ./tracks/78_Steampunk_Airship.mp3
+  - $id: song_79
+    tags:
+      - army
+      - armies
+      - horses
+      - weapons
+      - soldiers
+      - fight
+      - clash
+      - combat
+    title: Medieval Battle
+    description: |-
+      Two armies meet on the battlefield. Standards wave, drums pound. Steel, horses and bones clash in the fight for supremacy.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/79_Medieval_Battle.mp3
+    file: ./tracks/79_Medieval_Battle.mp3
+  - $id: song_80
+    tags:
+      - metal
+      - anvil
+      - horse
+      - armor
+      - iron
+      - forge
+      - Forge War
+      - "King's Forge"
+      - Kings Forge
+    title: Blacksmith Shoppe
+    description: |-
+      A blacksmith's shoppe was crucial to the life of a village. From shoeing horses to making armor and weapons. Some even yanked the odd tooth
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/80_Blacksmith_Shoppe.mp3
+    file: ./tracks/80_Blacksmith_Shoppe.mp3
+  - $id: song_81
+    tags:
+      - jazz age
+      - 20s
+      - 30s
+      - drink
+      - twenties
+      - flappers
+      - food
+      - bar
+      - tavern
+      - inn
+      - gangsters
+      - mobsters
+      - Bootleggers
+    title: 1920s Speakeasy
+    description: |-
+      The joint is jumping and the gin is flowing so gussy yourself up and give the heavy at the door your password.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/81_1920s_Speakeasy.mp3
+    file: ./tracks/81_1920s_Speakeasy.mp3
+  - $id: song_82
+    tags:
+      - ghosts
+      - spooky
+      - scary
+      - halloween
+      - terror
+      - fright
+    title: Nightmare
+    description: |-
+      The darkness seethes and writhes about you as you gasp for air. Waking up is a matter of finding the right door. Halloween 2015.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/82_Nightmare.mp3
+    file: ./tracks/82_Nightmare.mp3
+  - $id: song_83
+    tags:
+      - ghosts
+      - spooky
+      - scary
+      - halloween
+      - terror
+      - fright
+      - hamlet
+    title: Haunted Ramparts
+    description: |-
+      "I am thy father's spirit, Doom'd for a certain term to walk the night, And for the day confined to fast in fires" - W.Shakespeare
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/83_Haunted_Ramparts.mp3
+    file: ./tracks/83_Haunted_Ramparts.mp3
+  - $id: song_84
+    tags:
+      - mexican
+      - wrestling
+      - arena
+      - crowds
+      - wwe
+      - wwf
+    title: Lucha Libre!
+    description: |-
+      Lucha Libre, the masked, high flying spectacle, is embedded deep in the very soul of Mexican culture.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/84_Lucha_Libre.mp3
+    file: ./tracks/84_Lucha_Libre.mp3
+  - $id: song_85
+    tags:
+      - dark
+      - dank
+      - dripping
+      - tunnel
+      - sewars
+      - quest
+      - dungeon
+      - water
+      - underground
+    title: Sewers
+    description: |-
+      Dank and teeming with the foul and pestilent denizens of darkness. Bring extra torches.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/85_Sewers.mp3
+    file: ./tracks/85_Sewers.mp3
+  - $id: song_86
+    tags:
+      - action
+      - mysterious
+      - television
+      - tv
+      - cyberpunk
+    title: Dark City
+    description: |-
+      A slow burn action / suspense soundtrack for dark modern settings
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/86_Dark_City.mp3
+    file: ./tracks/86_Dark_City.mp3
+  - $id: song_87
+    tags:
+      - christmas
+      - xmas
+      - festivus
+      - holiday
+      - frozen
+      - ice
+      - fair
+    title: Winter Festival
+    description: |-
+      Holiday celebrations in a small snowy town.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/87_Winter_Festival.mp3
+    file: ./tracks/87_Winter_Festival.mp3
+  - $id: song_88
+    tags:
+      - coffee shop
+      - starbucks
+      - restaurant
+      - tea
+      - productivty
+      - tavern
+    title: Lively Cafe
+    description: |-
+      A cornerstone of 21st century culture, the humble coffee shop. A place to relax, read, caffinate. Come for the free wi-fi, stay for the lattes.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/88_Lively_Cafe.mp3
+    file: ./tracks/88_Lively_Cafe.mp3
+  - $id: song_89
+    tags:
+      - peaceful
+      - quiet
+      - solitude
+      - outdoors
+      - cold
+    title: Winter Woods
+    description: |-
+      Cold wind, dry branches, hardy birds. A quiet meditation on winter's tranquility, or a stark backdrop to adventure.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/89_Winter_Woods.mp3
+    file: ./tracks/89_Winter_Woods.mp3
+  - $id: song_90
+    tags:
+      - dwemer
+      - dwarf
+      - dwarven
+      - gears
+      - clockwork
+      - underground
+      - quest
+    title: "Dungeon II: Mechanical"
+    description: |-
+      Deep in the heart of the mountain, ancient machines groan and clank with deadly precision.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/90_Dungeon_II_Mechanical.mp3
+    file: ./tracks/90_Dungeon_II_Mechanical.mp3
+  - $id: song_91
+    tags:
+      - elves
+      - elf
+      - forest
+      - woods
+      - spirits
+      - tolkien
+      - peaceful
+      - magic
+      - sleeping
+    title: Elven Glade
+    description: |-
+      Shrouded from human sight, elves of the forest have congregated here for centuries.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/91_Elven_Glade.mp3
+    file: ./tracks/91_Elven_Glade.mp3
+  - $id: song_92
+    tags:
+      - battle
+      - drama
+      - action
+      - fight
+      - clash
+      - medieval
+      - epic
+      - combat
+    title: Skirmish
+    description: |-
+      Oh, it's on. Roll for initiative...
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/92_Skirmish.mp3
+    file: ./tracks/92_Skirmish.mp3
+  - $id: song_93
+    tags:
+      - trek
+      - space
+      - station
+      - doctor
+      - starfleet
+    title: Starship Medical
+    description: |-
+      The combined anatomical knowledge of the known galaxy. The best medical care in the fleet.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/93_Starship_Medical.mp3
+    file: ./tracks/93_Starship_Medical.mp3
+  - $id: song_94
+    tags:
+      - police
+      - drama
+      - television
+      - tv
+      - intrigue
+      - investigation
+      - detective
+      - Deception
+    title: Noir Procedural
+    description: |-
+      A TV inspired, urban noir backdrop for intrigue and investigation.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/94_Noir_Procedural.mp3
+    file: ./tracks/94_Noir_Procedural.mp3
+  - $id: song_95
+    tags:
+      - horses
+      - desert
+      - middle eastern
+      - nomad
+      - bedouin
+      - exotic
+      - warriors
+      - sand
+      - Tales of the Arabian Nights
+      - egypt
+    title: Arabesque
+    description: |-
+      Adrift on the sands of time, nomadic warriors celebrate a life of conquest and honor.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/95_Arabesque.mp3
+    file: ./tracks/95_Arabesque.mp3
+  - $id: song_96
+    tags:
+      - indian
+      - native
+      - american
+      - horses
+      - prairie
+      - western
+      - cowboy
+    title: Windswept Plains
+    description: |-
+      A small band of horsemen bivouac under a never ending sky.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/96_Windswept_Plains_b.mp3
+    file: ./tracks/96_Windswept_Plains_b.mp3
+  - $id: song_97
+    tags:
+      - battle
+      - assault
+      - urban
+      - weapons
+      - gunfire
+      - military
+      - fight
+      - combat
+    title: City Under Siege
+    description: |-
+      Pinned down. Safe for now but chaos surrounds you. Move quickly, quietly, and with purpose.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/97_City_Under_Siege.mp3
+    file: ./tracks/97_City_Under_Siege.mp3
+  - $id: song_98
+    tags:
+      - adventure
+      - tolkien
+      - khazad dum
+      - dwarf
+      - dwarven
+      - quest
+      - cave
+      - moria
+      - dungeon
+    title: Lost Mine
+    description: |-
+      Hidden for years and only recently discovered, your party must go on a search...for the last party.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/98_Lost_Mine.mp3
+    file: ./tracks/98_Lost_Mine.mp3
+  - $id: song_99
+    tags:
+      - spirits
+      - ghosts
+      - wailing
+      - danger
+      - magic
+      - moria
+      - dungeon
+    title: Cavern of Lost Souls
+    description: |-
+      A yawning, supulchral chamber filled with the departed spirits of fallen warriors.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/99_Cavern_of_Lost_Souls.mp3
+    file: ./tracks/99_Cavern_of_Lost_Souls.mp3
+  - $id: song_100
+    tags:
+      - hell
+      - bubbling
+      - sulphur
+      - devil
+      - inferno
+    title: Volcano
+    description: |-
+      The mouth of hell itself, a smoldering vista of rock and lava. Great tongues of fire and sulphur lick a darkening sky.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/100_Volcano.mp3
+    file: ./tracks/100_Volcano.mp3
+  - $id: song_101
+    tags:
+      - road
+      - cars
+      - lynch
+      - hitch
+      - trip
+      - tv
+      - television
+    title: Highway
+    description: |-
+      It's nighttime, you're walking on the side of a highway and you feel like you're in a David Lynch film. What could go wrong?
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/101_Highway.mp3
+    file: ./tracks/101_Highway.mp3
+  - $id: song_102
+    tags:
+      - vampire
+      - gothic
+      - castle
+      - haunted
+      - dracula
+      - blood
+      - undead
+      - halloween
+      - monster
+      - strahd
+    title: Vampire's Castle
+    description: |-
+      A sprawling gothic mansion at midnight. Centuries of art and artifacts line these halls, but beware! The Master is about. Halloween 2016
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/102_Vampire_Castle.mp3
+    file: ./tracks/102_Vampire_Castle.mp3
+  - $id: song_103
+    tags:
+      - portal
+      - factory
+      - industrial
+      - machines
+    title: Testing Chamber
+    description: |-
+      An empty factory floor, towering spires of self-activated machines. One way out. Yes..this is what you think it is.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/103_Testing_Chamber.mp3
+    file: ./tracks/103_Testing_Chamber.mp3
+  - $id: song_104
+    tags:
+      - elves
+      - elven
+      - elf
+      - water
+      - stream
+      - sleeping
+      - village
+    title: River Town
+    description: |-
+      Your journey takes you to a small, tidy village on the bank of a river. The people are kind and the tavern is warm.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/104_River_Town.mp3
+    file: ./tracks/104_River_Town.mp3
+  - $id: song_105
+    tags:
+      - 80s
+      - synth
+      - tv
+      - television
+    title: Weirder Things
+    description: |-
+      An homage to an era, and a show. With love.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/105_Weirder_Things_2.mp3
+    file: ./tracks/105_Weirder_Things_2.mp3
+  - $id: song_106
+    tags:
+      - suspense
+      - abandoned
+      - machines
+      - industrial
+      - alien
+    title: Lunar Outpost
+    description: |-
+      There has been no contact with the team at Outpost 1138 for weeks. We have dispatched a recon unit to investigate.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/106_Lunar_Outpost.mp3
+    file: ./tracks/106_Lunar_Outpost.mp3
+  - $id: song_107
+    tags:
+      - west
+      - western
+      - horses
+      - dusty
+      - Deadlands
+      - cowboys
+    title: Lonesome West
+    description: |-
+      Brooding skies, ominous horizons. An ode to dark westerns. [Alternate version for <a href="https://www.patreon.com/posts/lonesome-west-8856141">Patreon Patrons</a>]
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/107_Lonesome_West.mp3
+    file: ./tracks/107_Lonesome_West.mp3
+  - $id: song_108
+    tags:
+      - fairground
+      - fair
+      - rides
+    title: Carnival
+    description: |-
+      It's the summer of an indiscriminate year. The carnival has come to town. Rides, cotton candy and food on sticks.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/108_Carnival.mp3
+    file: ./tracks/108_Carnival.mp3
+  - $id: song_109
+    tags:
+      - aircraft
+      - airplane
+      - cabin
+      - white noise
+    title: 747 Interior
+    description: |-
+      The timeless sound of a 747 cabin in flight.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/109_747_Interior.mp3
+    file: ./tracks/109_747_Interior.mp3
+  - $id: song_110
+    tags:
+      - west
+      - western
+      - ragtime
+      - music
+      - inn
+      - tavern
+      - Deadlands
+      - food
+      - drink
+    title: Wild West Saloon
+    description: |-
+      The rootenest, tootenest, honky tonk this side of Deadwood.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/110_Wild_West_Saloon.mp3
+    file: ./tracks/110_Wild_West_Saloon.mp3
+  - $id: song_111
+    tags:
+      - space station
+      - star trek
+      - star wars
+      - future
+      - commerce
+      - shopping
+      - mall
+      - crowds
+    title: Orbital Promenade
+    description: |-
+      A galactic crossroads of commerce and society. The largest and most central ring of the habitat section.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/111_Orbital_Promenade.mp3
+    file: ./tracks/111_Orbital_Promenade.mp3
+  - $id: song_112
+    tags:
+      - astral
+      - peaceful
+      - abstract
+      - swirl
+      - light
+      - heaven
+    title: Ethereal Plane
+    description: |-
+      A radiant ocean spreads itself before you as winds of color and light whirl above.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/112_Ethereal_Plane.mp3
+    file: ./tracks/112_Ethereal_Plane.mp3
+  - $id: song_113
+    tags:
+      - ethereal
+      - dark
+      - abstract
+      - swirl
+      - heaven
+      - projection
+    title: Astral Plane
+    description: |-
+      The realm of thought, memory and psychic energy. Where the silver cords of travelers drift on waves of pure magic.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/113_Astral_Plane.mp3
+    file: ./tracks/113_Astral_Plane.mp3
+  - $id: song_114
+    tags:
+      - underground
+      - dark
+      - dwarf
+      - moria
+      - khazad dum
+      - forge
+    title: Dwarven City
+    description: |-
+      A towering, immense city, hewn from solid rock, where dwarves shape stone and iron into soaring monuments, and mighty weapons.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/114_Dwarven_City.mp3
+    file: ./tracks/114_Dwarven_City.mp3
+  - $id: song_115
+    tags:
+      - mystery
+      - sleeping
+      - suspense
+      - victorian
+      - office
+      - library
+      - rain
+      - house
+    title: Antiquarian Study
+    description: |-
+      A cluttered, book-filled office in a creaky old house. Rain pattering at the window, and.. someone upstairs?
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/115_Antiquarian_Study.mp3
+    file: ./tracks/115_Antiquarian_Study.mp3
+  - $id: song_116
+    tags:
+      - Potter
+      - Hogwarts
+      - magic
+      - victorian
+      - fireplace
+      - library
+      - castle
+      - house
+      - wizard
+      - school
+      - witch
+    title: RavenPuff Common
+    description: |-
+      If you've ever been to a school for witchcraft and wizardry, you spent some time in one of these.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/116_RavenPuff_Common.mp3
+    file: ./tracks/116_RavenPuff_Common.mp3
+  - $id: song_117
+    tags:
+      - southern
+      - blues
+      - guitar
+      - bayou
+      - south
+      - rural
+      - country
+      - traffic
+    title: Crossroads
+    description: |-
+      A dust filled, diesel tinged intersection of modernity and the past. Sit awhile.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/117_Crossroads.mp3
+    file: ./tracks/117_Crossroads.mp3
+  - $id: song_118
+    tags:
+      - decay
+      - blood
+      - insects
+      - rotting
+      - disease
+    title: "Spire:The Heart"
+    description: |-
+      A rotting hole in reality buried at the centre of the mile-high, ancient building that is Spire.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/118_Spire_The_Heart_a.mp3
+    file: ./tracks/118_Spire_The_Heart_a.mp3
+  - $id: song_119
+    tags:
+      - ice
+      - crystalline
+      - frozen
+      - cold
+      - coins
+      - cruel
+      - winter
+    title: "Spire:Amaranth"
+    description: |-
+      The crystalline, frozen home of the haughty, masked, high elves that rule Spire. Lit by stolen northern lights and chilled with imported ice.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/119_Spire_Amaranth_a.mp3
+    file: ./tracks/119_Spire_Amaranth_a.mp3
+  - $id: song_120
+    tags:
+      - wind
+      - mourning
+      - chants
+      - priests
+      - preachers
+      - zealots
+      - funeral
+      - dirges
+      - bells
+    title: "Spire:New Heaven"
+    description: |-
+      Impossibly high burial grounds where hyenas prowl the streets, and preachers and zealots singing the praises of their gods.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/120_Spire_New_Heaven.mp3
+    file: ./tracks/120_Spire_New_Heaven.mp3
+  - $id: song_121
+    tags:
+      - dripping
+      - dark
+      - chants
+      - drow
+      - slum
+      - poverty
+      - decay
+      - ruins
+      - magic
+    title: "Spire:Derelictus"
+    description: |-
+      Destitute. A run-down sump of a place, riddled with poverty and black magic. Undercity home to the downtrodden Dark Elves.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/121_Spire_Derelictus.mp3
+    file: ./tracks/121_Spire_Derelictus.mp3
+  - $id: song_122
+    tags:
+      - secrets
+      - whispers
+      - prayer
+      - temple
+      - religion
+      - sanctuary
+      - chants
+      - ritual
+      - rites
+      - church
+    title: "Spire:The Ministry"
+    description: |-
+      A secret, shadowy society devoted to the forbidden worship of a goddess. Piety, devotion and ritual.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/122_Spire_The_Ministry.mp3
+    file: ./tracks/122_Spire_The_Ministry.mp3
+  - $id: song_123
+    tags:
+      - insects
+      - spiders
+      - creepy
+      - skittering
+      - nursery
+      - dank
+      - dark
+    title: "Spire:The Hatchery"
+    description: |-
+      Arachnid midwives tend to clutches of unborn with ministrations of blood. And yet, it is a safe, nurturing place.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/123_Spire_The_Hatchery.mp3
+    file: ./tracks/123_Spire_The_Hatchery.mp3
+  - $id: song_124
+    tags:
+      - vibrations
+      - machinery
+      - wind
+      - tunnels
+      - unreality
+    title: "Spire:The Vermissian"
+    description: |-
+      A massive train network where trains have never really run. Decay and unreality pervade.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/124_Spire_The_Vermissian.mp3
+    file: ./tracks/124_Spire_The_Vermissian.mp3
+  - $id: song_125
+    tags:
+      - "125"
+      - Halloween
+      - fear
+      - buried
+      - paranoid
+      - paranoia
+      - terror
+      - scary
+    title: Existential Dread
+    description: |-
+      It starts as a tickle at the base of the ganglia, and spreads, slowly, into your consciousness. Happy Halloween 2017!
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/125_Existential_Dread.mp3
+    file: ./tracks/125_Existential_Dread.mp3
+  - $id: song_126
+    tags:
+      - synth
+      - journey
+      - space
+      - exploration
+      - wonder
+      - planets
+      - stars
+      - nebula
+    title: Endless Voyage
+    description: |-
+      Voyager is the first human-made object to enter interstellar space, traveling "further than anyone, or anything in history."
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/126_Endless_Voyage.mp3
+    file: ./tracks/126_Endless_Voyage.mp3
+  - $id: song_127
+    tags:
+      - 70s
+      - cops
+      - police
+      - funk
+      - tv
+      - cars
+      - highway
+      - hotrods
+      - race
+      - speed
+      - television
+    title: Car Chase!
+    description: |-
+      Big engines, big funk, big hair. Put on your shades and strap in for the ride! [2 Alternate versions for <a href="https://www.patreon.com/posts/car-chase-tracks-15481594">Patreon Patrons</a>]
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/127_Car_Chase_a.mp3
+    file: ./tracks/127_Car_Chase_a.mp3
+  - $id: song_128
+    tags:
+      - clockwork
+      - gnomes
+      - gears
+      - patience
+      - funny
+      - humor
+      - creepy
+      - crazy
+      - building
+      - work
+    title: Waiting Time
+    description: |-
+      Tick Tock, sometimes adventures need a little downtime music. Lighthearted or slightly sinister, it's up to you to decide.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/128_Waiting_Time.mp3
+    file: ./tracks/128_Waiting_Time.mp3
+  - $id: song_129
+    tags:
+      - 80s
+      - synth
+      - tv
+      - television
+    title: "Weirder Things: 2"
+    description: |-
+      The sequel, to the homage that was the first Weirder Things track. This time, with more 80s.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/129_Weirder_Things_2.mp3
+    file: ./tracks/129_Weirder_Things_2.mp3
+  - $id: song_130
+    tags:
+      - snow
+      - ice
+      - slavic
+      - cold
+      - wind
+      - north
+      - barren
+    title: Russian Winter
+    description: |-
+      "People don't notice whether it's winter or summer when they're happy" - Anton Chekhov
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/130_Russian_Winter.mp3
+    file: ./tracks/130_Russian_Winter.mp3
+  - $id: song_131
+    tags:
+      - tavern
+      - meeting
+      - inn
+      - hearth
+      - food
+      - drink
+    title: The Bog Standard
+    description: |-
+      A run-of-the-mill medieval tavern. No music, just ambience. Think of it as open-mic night for your Bard.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/131_The_Bog_Standard.mp3
+    file: ./tracks/131_The_Bog_Standard.mp3
+  - $id: song_132
+    tags:
+      - water
+      - waves
+      - sea
+      - peaceful
+      - productivty
+    title: Open Ocean
+    description: |-
+      Adrift on the waves. No land in sight, just the way you want it. Tranquility abounds.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/132_Open_Ocean.mp3
+    file: ./tracks/132_Open_Ocean.mp3
+  - $id: song_133
+    tags:
+      - party
+      - wedding
+      - dance
+      - hobbits
+      - village
+      - fair
+    title: Halfling Festival
+    description: |-
+      Nobody parties like halflings. Nobody.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/133_Halfling_Festival.mp3
+    file: ./tracks/133_Halfling_Festival.mp3
+  - $id: song_134
+    tags:
+      - horses
+      - traveling
+      - buggy
+      - cart
+      - stagecoach
+      - hansom
+      - travel
+      - coach
+      - rain
+    title: Carriage Journey
+    description: |-
+      A long, rainy journey in a horse drawn carriage. Plenty of time to look out the window and watch the world go by. [Alt. version for <a href="https://www.patreon.com/posts/carriage-journey-17685012">Patreon Patrons</a>]
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/134_Carriage_Journey.mp3
+    file: ./tracks/134_Carriage_Journey.mp3
+  - $id: song_135
+    tags:
+      - infinity
+      - cosmos
+      - universe
+      - celestial
+      - cyberpunk
+      - planets
+      - computers
+      - abstract
+    title: Dark Matter
+    description: |-
+      The sound of the cosmos, or an alternate dimension. Infinite and majestic.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/135_Dark_Matter.mp3
+    file: ./tracks/135_Dark_Matter.mp3
+  - $id: song_136
+    tags:
+      - prayer
+      - gods
+      - religion
+      - sanctuary
+      - chants
+      - ritual
+      - rites
+      - holy
+      - church
+    title: Temple of Helm
+    description: |-
+      May Helm protect you and absolve you of your curses and afflictions.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/136_Temple_Of_Helm.mp3
+    file: ./tracks/136_Temple_Of_Helm.mp3
+  - $id: song_137
+    tags:
+      - river
+      - stream
+      - village
+      - water
+    title: Mill Town
+    description: |-
+      A busy little mill town on the banks of a river. [Alternate version for <a href="https://www.patreon.com/posts/new-ambience-18576979">Patreon Patrons</a>]
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/137_Mill_Town_a.mp3
+    file: ./tracks/137_Mill_Town_a.mp3
+  - $id: song_138
+    tags:
+      - storm
+      - sandstorm
+      - sand
+      - arabian
+      - weather
+      - dust
+      - haboob
+      - Tales of the Arabian Nights
+      - egypt
+    title: Desert Winds
+    description: |-
+      With little warning, the serenity of the desert is transformed into a maelstrom of biting sand and vicious wind. [Alternate version for <a href="https://www.patreon.com/posts/new-ambience-18841945">Patreon Patrons</a>]
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/138_Desert_Winds.mp3
+    file: ./tracks/138_Desert_Winds.mp3
+  - $id: song_139
+    tags:
+      - underwater
+      - water
+      - deep
+      - sunken pyramid
+      - ocean
+      - sea
+      - depths
+      - dive
+      - scuba
+      - Aquasphere
+      - church
+    title: Sunken Temple
+    description: |-
+      Lost for millenia beneath the waves, an ancient edifice holds countless mysteries. [Alternate version for <a href="https://www.patreon.com/posts/18984176">Patreon Patrons</a>]
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/139_Sunken_Temple.mp3
+    file: ./tracks/139_Sunken_Temple.mp3
+  - $id: song_140
+    tags:
+      - neon
+      - cyberpunk
+      - noir
+      - space
+      - gritty
+      - metallic
+      - urban
+    title: Dark Future
+    description: |-
+      In a not too distant future, dense enclaves of humans eke out a living amid towers of twisting metal, glass and neon.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/140_Dark_Future.mp3
+    file: ./tracks/140_Dark_Future.mp3
+  - $id: song_141
+    tags:
+      - wind
+      - cabin
+      - shack
+      - hovel
+      - house
+      - witch
+      - crone
+      - lonely
+      - woods
+    title: Hermit Hut
+    description: |-
+      An old hermit lives a quiet life of routine, alone in an isolated stone hut. But is there something more? [Alternate version for <a href="https://www.patreon.com/posts/19310844">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/141_Hermit_Hut.mp3
+    file: ./tracks/141_Hermit_Hut.mp3
+  - $id: song_142
+    tags:
+      - egypt
+      - pharoah
+      - pyramid
+      - burial
+      - undead
+      - desert
+      - sarcophagus
+    title: Mummy's Tomb
+    description: |-
+      An ancient burial chamber is uncovered after a millenium. What treasures are held within? What terrors?
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/142_Mummys_Tomb.mp3
+    file: ./tracks/142_Mummys_Tomb.mp3
+  - $id: song_143
+    tags:
+      - supper
+      - dining
+      - jane austen
+      - social
+      - entertaining
+      - downton abbey
+      - society
+    title: Elegant Dinner Party
+    description: |-
+      The clothing and decorum of these elite gatherings often mask the undertones of intrigue and distrust. [Alternate version for <a href="https://www.patreon.com/posts/19864234">Patreon Patrons</a>]
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/143_Elegant_Dinner_Party.mp3
+    file: ./tracks/143_Elegant_Dinner_Party.mp3
+  - $id: song_144
+    tags:
+      - warfare
+      - helicopters
+      - combat
+      - huey
+      - urban
+      - shelling
+      - city
+      - airstrike
+    title: War Zone
+    description: |-
+      Incessant shelling of the city below as attack helicopters drone above. [Alt. version for <a href="https://www.patreon.com/posts/20150353">Patreon Patrons</a>]
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/144_War_Zone.mp3
+    file: ./tracks/144_War_Zone.mp3
+  - $id: song_145
+    tags:
+      - jazz
+      - harlem
+      - club
+      - bar
+      - speakeasy
+      - tavern
+      - city
+      - urban
+      - "1920"
+      - "1930"
+      - "1940"
+      - cthulhu
+    title: Cotton Club
+    description: |-
+      Harlem, 1920s. The Cotton Club was the epicenter of the African American social and artistic renaissance.</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/145_Cotton_Club.mp3
+    file: ./tracks/145_Cotton_Club.mp3
+  - $id: song_146
+    tags:
+      - palace
+      - frozen
+      - fortress
+      - clouds
+      - giants
+      - cold
+      - flying
+      - sky
+      - skyreach
+    title: Floating Ice Castle
+    description: |-
+      Kept aloft by an ancient spell, this gleaming fortress served as protection against an enemy no one remembers.</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/146_Floating_Ice_Castle.mp3
+    file: ./tracks/146_Floating_Ice_Castle.mp3
+  - $id: song_147
+    tags:
+      - tomb
+      - castle
+      - strahd
+      - Dracula
+      - vampire
+      - wolf
+      - scary
+      - spooky
+      - gothic
+      - haunted
+      - monster
+    title: Graveyard
+    description: |-
+      The crooked headstones have been overgrown with vines and all manner of creatures commune in the darkness.</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/147_Graveyard.mp3
+    file: ./tracks/147_Graveyard.mp3
+  - $id: song_148
+    tags:
+      - Strahd
+      - Dracula
+      - vampire
+      - wolf
+      - scary
+      - spooky
+      - gothic
+      - haunted
+      - monster
+    title: Barovian Castle
+    description: |-
+      For a thousand years the castle has towered over the surrounding villages. People speak of it in hushed tones. [Alternate version for <a href="https://www.patreon.com/posts/20937181">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/148_Barovian_Castle.mp3
+    file: ./tracks/148_Barovian_Castle.mp3
+  - $id: song_149
+    tags:
+      - river
+      - stream
+      - water
+      - campsite
+      - campfire
+      - calm
+      - peaceful
+      - relaxing
+    title: Lakeside Camp
+    description: |-
+      A quiet spot, off the beaten track. [Alternate version for <a href="https://www.patreon.com/posts/21410967">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/149_Lakeside_Camp.mp3
+    file: ./tracks/149_Lakeside_Camp.mp3
+  - $id: song_150
+    tags:
+      - technolgy
+      - Tales from the Loop
+      - cyberpunk
+      - abstract
+      - dystopia
+      - 80s
+      - synth
+      - tv
+      - television
+    title: Loop Tales
+    description: |-
+      The sounds of Scandinavian, suburban futurism. [Alternate version for <a href="https://www.patreon.com/posts/21513297">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/150_Loop_Tales.mp3
+    file: ./tracks/150_Loop_Tales.mp3
+  - $id: song_151
+    tags:
+      - combat
+      - battle
+      - action
+      - drama
+      - steampunk
+    title: Metropolis Fanfare
+    description: |-
+      A Heroic introduction to the city of tomorrow.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/151_Metropolis_Fanfare.mp3
+    file: ./tracks/151_Metropolis_Fanfare.mp3
+  - $id: song_152
+    tags:
+      - spaceship
+      - salvage
+      - aliens
+      - reavers
+      - halloween
+      - space
+      - hypersleep
+    title: Nostromo
+    description: |-
+      While the crew prepares to emerge from hypersleep, the ship slowly awakens. Halloween 2018 [Alternate version for <a href="https://www.patreon.com/posts/21824700">Patreon Patrons</a>]
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/152_Nostromo.mp3
+    file: ./tracks/152_Nostromo.mp3
+  - $id: song_153
+    tags:
+      - elves
+      - elven
+      - elf
+      - forest
+      - woods
+      - spirits
+      - tolkien
+      - peaceful
+      - magic
+      - sleeping
+    title: Secret Garden
+    description: |-
+      A quiet, magical clearing in the forest. All gentle creatures welcome. [Alternate version for <a href="https://www.patreon.com/posts/22266143">Patreon Patrons</a>]
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/153_Secret_Garden.mp3
+    file: ./tracks/153_Secret_Garden.mp3
+  - $id: song_154
+    tags:
+      - attic
+      - rain
+      - writing
+      - fireplace
+      - solitude
+      - peaceful
+      - shack
+    title: Artist's Garret
+    description: |-
+      In a tiny attic room, rain pattering against the window, fire in the grate, pen in hand. [Alternate version for <a href="https://www.patreon.com/posts/22554000">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/154_Artists_Garret.mp3
+    file: ./tracks/154_Artists_Garret.mp3
+  - $id: song_155
+    tags:
+      - antarctica
+      - arctic
+      - snow
+      - ice
+      - synth
+      - john carpenter
+      - thing
+      - the thing
+      - morricone
+      - cold
+      - winter
+    title: Outpost 31
+    description: |-
+      Antarctica, 1982. An homage to the wonderful Carpenter/Morricone Score.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/155_Outpost_31.mp3
+    file: ./tracks/155_Outpost_31.mp3
+  - $id: song_156
+    tags:
+      - cargo
+      - space
+      - spaceship
+      - peaceful
+      - aliens
+      - salvage
+    title: Star Freighter
+    description: |-
+      A massive interstellar vessel used for long haul cargo runs. [Alternate version for <a href="https://www.patreon.com/posts/23142562">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/156_Star_Freighter.mp3
+    file: ./tracks/156_Star_Freighter.mp3
+  - $id: song_157
+    tags:
+      - battle
+      - drama
+      - action
+      - fight
+      - clash
+      - medieval
+      - epic
+      - heroic
+      - combat
+    title: Field of Heroes
+    description: |-
+      On the field of battle, heroes are born.
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/157_Field_of_Heroes.mp3
+    file: ./tracks/157_Field_of_Heroes.mp3
+  - $id: song_158
+    tags:
+      - medieval
+      - city
+      - town
+      - Waterdeep
+      - society
+    title: Waterkeep
+    description: |-
+      The fabled jeweled city of the north, a hub for trade, commerce and culture. [2 Alternate versions for <a href="https://www.patreon.com/posts/23451645">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/158_Waterkeep.mp3
+    file: ./tracks/158_Waterkeep.mp3
+  - $id: song_159
+    tags:
+      - medieval
+      - horses
+      - hitch
+      - grooming
+      - livestock
+      - stalls
+      - animals
+    title: Stables
+    description: |-
+      In medieval times, horses were vital for trade, travel, and war. A well run stable was essential. [Alternate version for <a href="https://www.patreon.com/posts/24174385">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/159_Stables.mp3
+    file: ./tracks/159_Stables.mp3
+  - $id: song_160
+    tags:
+      - jazz
+      - china
+      - asia
+      - asian
+      - orient
+      - cthulhu
+      - city
+      - urban
+      - crime
+      - "1920"
+      - "1940"
+    title: Shanghai 1930s
+    description: |-
+      Known as 'The Paris of the East, the New York of the West'.Anything was possible. [Alternate version for <a href="https://www.patreon.com/posts/24333294">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/160_Shanghai_1930s.mp3
+    file: ./tracks/160_Shanghai_1930s.mp3
+  - $id: song_161
+    tags:
+      - quiet
+      - breeze
+      - trees
+      - birds
+      - wind
+      - sleeping
+      - productivty
+    title: "Forest: Day"
+    description: |-
+      A breezy, dense, daytime forest setting for adventure or relaxation. You choose. [Alternate version for <a href="https://www.patreon.com/posts/24511510">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/161_Forest_Day.mp3
+    file: ./tracks/161_Forest_Day.mp3
+  - $id: song_162
+    tags:
+      - action
+      - drama
+      - synth
+      - 90s
+      - boss
+      - fight
+      - epic
+      - battle
+      - gothic
+    title: Dark Angel
+    description: |-
+      A dark homage to the 90s. A great backdrop to brooding drama or full bore action.</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/162_Dark_Angel.mp3
+    file: ./tracks/162_Dark_Angel.mp3
+  - $id: song_163
+    tags:
+      - festival
+      - town
+      - village
+      - market
+      - party
+      - bazaar
+    title: Medieval Fair
+    description: |-
+      An important economic event in medieval towns. Merchants and entertainers gathered from afar. [Alternate version for <a href="https://www.patreon.com/posts/24836661">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/163_Medieval_Fair.mp3
+    file: ./tracks/163_Medieval_Fair.mp3
+  - $id: song_164
+    tags:
+      - dark
+      - dank
+      - dripping
+      - tunnel
+      - sewars
+      - underground
+      - water
+    title: Cistern
+    description: |-
+      A Castle's cistern was a functional necessity, but it could also be beautiful and mysterious. [2 Alternate versions for <a href="https://www.patreon.com/posts/25180454">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/164_Cistern.mp3
+    file: ./tracks/164_Cistern.mp3
+  - $id: song_165
+    tags:
+      - ocean
+      - sea
+      - ships
+      - steamer
+      - boats
+      - luxury
+      - travel
+      - elegant
+    title: RMS Titanic
+    description: |-
+      A postprandial stroll along the deck of the world's most luxurious ocean liner. [Alternate version for <a href="https://www.patreon.com/posts/25342836">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/165_RMS_Titanic.mp3
+    file: ./tracks/165_RMS_Titanic.mp3
+  - $id: song_166
+    tags:
+      - ocean
+      - sea
+      - ships
+      - sail
+      - pirates
+      - Saltmarsh
+      - anchor
+      - inlet
+      - water
+      - tropics
+      - peaceful
+    title: Quiet Cove
+    description: |-
+      A calm tropical inlet for ships to lay at anchor. [2 Alternate versions for <a href="https://www.patreon.com/posts/25503367">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/166_Quiet_Cove.mp3
+    file: ./tracks/166_Quiet_Cove.mp3
+  - $id: song_167
+    tags:
+      - ocean
+      - sea
+      - boats
+      - town
+      - medieval
+      - Saltmarsh
+      - docks
+      - water
+      - peaceful
+    title: Fishing Village
+    description: |-
+      A busy little village on the southern shore of somewhere. [2 Alternate versions for <a href="https://www.patreon.com/posts/25667222">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/167_Fishing_Village.mp3
+    file: ./tracks/167_Fishing_Village.mp3
+  - $id: song_168
+    tags:
+      - action
+      - drama
+      - synth
+      - boss
+      - fight
+      - epic
+      - battle
+      - gothic
+      - cyberpunk
+      - Shadowrun
+      - combat
+    title: Neon Drive
+    description: |-
+      Hi intensity cyberpunk action for highly modified people and cars. [Alternate version for <a href="https://www.patreon.com/posts/26169195">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/168_Neon_Drive.mp3
+    file: ./tracks/168_Neon_Drive.mp3
+  - $id: song_169
+    tags:
+      - peaceful
+      - forest
+      - nature
+      - trees
+      - breeze
+      - quiet
+      - ethereal
+    title: The Feywild
+    description: |-
+      An echo of the Prime Material Plane, where arcane energy flows like water. [Alternate version for <a href="https://www.patreon.com/posts/26505404">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/169_The_Feywild.mp3
+    file: ./tracks/169_The_Feywild.mp3
+  - $id: song_170
+    tags:
+      - dungeon
+      - underground
+      - dark
+      - drow
+      - mysterious
+      - dangerous
+    title: The Underdark
+    description: |-
+      A vast subeterranean network of interconnected caverns. [2 Alternate versions for <a href="https://www.patreon.com/posts/26704207">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/170_The_Underdark.mp3
+    file: ./tracks/170_The_Underdark.mp3
+  - $id: song_171
+    tags:
+      - battle
+      - drama
+      - action
+      - fight
+      - clash
+      - medieval
+      - epic
+      - heroic
+      - combat
+    title: Cry Havoc
+    description: |-
+      "Cry Havoc and let slip the dogs of war" - W. Shakespeare [Alternate version for <a href="https://www.patreon.com/posts/26881036">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/171_Cry_Havoc.mp3
+    file: ./tracks/171_Cry_Havoc.mp3
+  - $id: song_172
+    tags:
+      - dungeon
+      - prison
+      - cell
+      - torture
+      - dark
+      - dank
+      - dripping
+    title: Castle Jail
+    description: |-
+      A dank, horrible cell in which to ponder your life's choices. [Alternate version for <a href="https://www.patreon.com/posts/27046668">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/172_Castle_Jail.mp3
+    file: ./tracks/172_Castle_Jail.mp3
+  - $id: song_173
+    tags:
+      - technolgy
+      - hi-tech
+      - spaceship
+      - spacestation
+      - facility
+      - labrotory
+      - robots
+    title: Robotics Lab
+    description: |-
+      A high tech facility for cutting edge research. [Alternate version for <a href="https://www.patreon.com/posts/27219113">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/173_Robotics_Lab.mp3
+    file: ./tracks/173_Robotics_Lab.mp3
+  - $id: song_174
+    tags:
+      - magic
+      - heroic
+      - drama
+      - action
+      - magical
+    title: Wizard's Tower
+    description: |-
+      Amidst bottles and books and beasts in their cage, toils a mighty magician, a wizard most sage. [Alternate version for <a href="https://www.patreon.com/posts/27406471">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/174_Wizards_Tower.mp3
+    file: ./tracks/174_Wizards_Tower.mp3
+  - $id: song_175
+    tags:
+      - king
+      - queen
+      - royalty
+      - palace
+      - monarch
+      - prince
+      - medieval
+      - imperial
+    title: Royal Court
+    description: |-
+      In this highly structured setting, those who attend the monarch gather to plot and collude. [2 Alternate versions for <a href="https://www.patreon.com/posts/27921479">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/175_Royal_Court.mp3
+    file: ./tracks/175_Royal_Court.mp3
+  - $id: song_176
+    tags:
+      - desert
+      - steppes
+      - lonely
+      - solitude
+      - wind
+      - tundra
+      - plains
+      - arctic
+      - alien
+      - planet
+    title: Barren Wastes
+    description: |-
+      Desolate, dessicated and dire. What used to be lush, isn't anymore. [2 Alternate versions for <a href="https://www.patreon.com/posts/28369889">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/176_Barren_Wastes.mp3
+    file: ./tracks/176_Barren_Wastes.mp3
+  - $id: song_177
+    tags:
+      - inn
+      - hearth
+      - meeting
+      - bard
+      - dance
+      - tavern
+    title: Tavern Music
+    description: |-
+      It's midsummer night down at the "Adventurer's Arms" and the bards are all here. [Alternate version for <a href="https://www.patreon.com/posts/28520442">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/177_Tavern_Music.mp3
+    file: ./tracks/177_Tavern_Music.mp3
+  - $id: song_178
+    tags:
+      - cavern
+      - frozen
+      - cold
+      - lich
+      - cave
+      - tundra
+      - snow
+      - winter
+    title: Ice Throne
+    description: |-
+      A frozen chamber from which to rule with an icy heart. [Alternate version for <a href="https://www.patreon.com/posts/29010682">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/178_Ice_Throne.mp3
+    file: ./tracks/178_Ice_Throne.mp3
+  - $id: song_179
+    tags:
+      - urban
+      - future
+      - blade runner
+      - Shadowrun
+      - rain
+      - matrix
+    title: Cyberpunk City
+    description: |-
+      The true melting pot. Language, culture and technology have merged into a single multi-faceted existence.[Alternate version for <a href="https://www.patreon.com/posts/29160597">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/179_Cyberpunk_City.mp3
+    file: ./tracks/179_Cyberpunk_City.mp3
+  - $id: song_180
+    tags:
+      - rural
+      - country
+      - landscape
+      - building
+      - ominous
+      - medieval
+      - desolate
+    title: Abandoned Windmill
+    description: |-
+      Lying fallow for years on a blustery hilltop, the sails still spin as a weary reminder. But of what? [2 Alternate versions for <a href="https://www.patreon.com/posts/29361343">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/180_Abandoned_Windmill.mp3
+    file: ./tracks/180_Abandoned_Windmill.mp3
+  - $id: song_181
+    tags:
+      - urban
+      - future
+      - blade runner
+      - Shadowrun
+      - tavern
+      - matrix
+      - club
+    title: Cyberpunk Bar
+    description: |-
+      A seedy place on the outskirts of the city. It's not pretty, but they probably have what you need. [2 Alternate versions for <a href="https://www.patreon.com/posts/29705374">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/181_Cyberpunk_Bar.mp3
+    file: ./tracks/181_Cyberpunk_Bar.mp3
+  - $id: song_182
+    tags:
+      - rural
+      - town
+      - medieval
+      - peaceful
+      - farm
+    title: Country Village
+    description: |-
+      A charming, quiet little village that welcomes you no matter what. [2 Alternate versions for <a href="https://www.patreon.com/posts/29885511">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/182_Country_Village.mp3
+    file: ./tracks/182_Country_Village.mp3
+  - $id: song_183
+    tags:
+      - ocean
+      - storm
+      - waves
+      - ominous
+      - glacier
+      - water
+      - winter
+    title: Sea of Moving Ice
+    description: |-
+      These northern waters are treacherous and cold. [2 Alternate versions for <a href="https://www.patreon.com/posts/30059043">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/183_Sea_of_Moving_Ice.mp3
+    file: ./tracks/183_Sea_of_Moving_Ice.mp3
+  - $id: song_184
+    tags:
+      - water
+      - cave
+      - cavern
+      - mountain
+    title: Underground Lake
+    description: |-
+      Deep beneath the mountain, a massive lake shimmers before you. [2 Alternate versions for <a href="https://www.patreon.com/posts/30232434">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/184_Underground_Lake.mp3
+    file: ./tracks/184_Underground_Lake.mp3
+  - $id: song_185
+    tags:
+      - space
+      - orbit
+      - tension
+      - ominous
+      - drama
+      - action
+      - cyberpunk
+    title: Gravity
+    description: |-
+      In space, things can go wrong very quickly. [Alternate version for <a href="https://www.patreon.com/posts/30434038">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/185_Gravity.mp3
+    file: ./tracks/185_Gravity.mp3
+  - $id: song_186
+    tags:
+      - scary
+      - eerie
+      - halloween
+      - ghosts
+      - spooky
+      - graveyard
+      - monsters
+    title: Haunted
+    description: |-
+      The soundtrack to a place you really shouldn't be. Halloween 2019. [Alternate version for <a href="https://www.patreon.com/posts/30624184">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/186_Haunted.mp3
+    file: ./tracks/186_Haunted.mp3
+  - $id: song_187
+    tags:
+      - battle
+      - drama
+      - action
+      - fight
+      - clash
+      - boss
+      - epic
+      - heroic
+      - combat
+    title: Endgame
+    description: |-
+      Big, brash, pulpy. Save this for the fights you might lose. [Alternate version for <a href="https://www.patreon.com/posts/30802506">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/187_Endgame.mp3
+    file: ./tracks/187_Endgame.mp3
+  - $id: song_188
+    tags:
+      - mountain
+      - city
+      - town
+      - medieval
+      - quiet
+      - gothic
+      - strahd
+      - dracula
+    title: Barovian Village
+    description: |-
+      Midnight. A small, quiet, mountain village in darkest Barovia. [Alternate version for <a href="https://www.patreon.com/posts/31162913">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/188_Barovian_Village.mp3
+    file: ./tracks/188_Barovian_Village.mp3
+  - $id: song_189
+    tags:
+      - Christmas
+      - fireplace
+      - peaceful
+      - winter
+      - snow
+      - holiday
+    title: Yuletide
+    description: |-
+      A cozy fireside gathering of family and friends for the holidays. [2 Alternate versions for <a href="https://www.patreon.com/posts/31537493">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/189_Yuletide.mp3
+    file: ./tracks/189_Yuletide.mp3
+  - $id: song_190
+    tags:
+      - seaside
+      - ocean
+      - beach
+      - 1940s
+      - 1930s
+      - cthulhu
+    title: 1940s Boardwalk
+    description: |-
+      Take a stroll through the colorful world of 1940s seaside Americana. [Alternate version for <a href="https://www.patreon.com/posts/31716950">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/190_1940s_Boardwalk.mp3
+    file: ./tracks/190_1940s_Boardwalk.mp3
+  - $id: song_191
+    tags:
+      - alien
+      - solitude
+      - wind
+      - dystopia
+      - crumble
+      - decay
+    title: Dying World
+    description: |-
+      The final days of a once vibrant planet. A return to entropy. [Alternate version for <a href="https://www.patreon.com/posts/31898356">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/191_Dying_World.mp3
+    file: ./tracks/191_Dying_World.mp3
+  - $id: song_192
+    tags:
+      - alien
+      - jungle
+      - humid
+      - insects
+      - water
+      - humid
+      - dagobah
+    title: Swamp Planet
+    description: |-
+      An entire planet, shrouded in dense mist, and teeming with life. [2 Alternate versions for <a href="https://www.patreon.com/posts/32092331">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/192_Swamp_Planet.mp3
+    file: ./tracks/192_Swamp_Planet.mp3
+  - $id: song_193
+    tags:
+      - drums
+      - war
+      - battle
+      - army
+      - mongolian
+      - skirmish
+      - combat
+      - action
+      - fight
+    title: The Steppes
+    description: |-
+      Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/193_The_Steppes.mp3
+    file: ./tracks/193_The_Steppes.mp3
+  - $id: song_194
+    tags:
+      - monster
+      - dank
+      - wet
+      - ominous
+      - mysterious
+      - dark
+    title: Tarrasque Interior
+    description: |-
+      A special holiday free gift! Part of a huge collaboration project. Download the complete adventure, minis, maps and more <a href="https://www.patreon.com/posts/32632802">Here</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/194_Tarrasque_Interior.mp3
+    file: ./tracks/194_Tarrasque_Interior.mp3
+  - $id: song_195
+    tags:
+      - crowds
+      - promenade
+      - galleria
+      - stores
+      - 80s
+      - shops
+    title: Shopping Mall
+    description: |-
+      A temple to the gods of modern consumerism. A Happy place. [Alternate version for <a href="https://www.patreon.com/posts/33173067">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/195_Shopping_Mall.mp3
+    file: ./tracks/195_Shopping_Mall.mp3
+  - $id: song_196
+    tags:
+      - boat
+      - water
+      - Charon
+      - row
+      - hades
+      - ominous
+      - hell
+      - ferry
+      - ferryman
+    title: Crossing the Styx
+    description: |-
+      The fee for ferrying the dead is a single coin, placed in the mouth. [3 Alternate versions for <a href="https://www.patreon.com/posts/33364893">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/196_Crossing_the_Styx.mp3
+    file: ./tracks/196_Crossing_the_Styx.mp3
+  - $id: song_197
+    tags:
+      - action
+      - fight
+      - clash
+      - combat
+      - heroic
+      - war
+      - combat
+    title: Battle of the Amazons
+    description: |-
+      A fierce tribe of warrior women feared for their prowess in battle. [3 Alternate versions for <a href="https://www.patreon.com/posts/33967430">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/197_Battle_of_the_Amazons.mp3
+    file: ./tracks/197_Battle_of_the_Amazons.mp3
+  - $id: song_198
+    tags:
+      - scary
+      - eerie
+      - dark
+      - ominous
+      - shadow
+      - ethereal
+    title: Shadowfell
+    description: |-
+      An unpredictable realm of depression, stasis and despair. [Alternate versions for <a href="https://www.patreon.com/posts/34358779">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/198_Shadowfell.mp3
+    file: ./tracks/198_Shadowfell.mp3
+  - $id: song_199
+    tags:
+      - forest
+      - horses
+      - peaceful
+      - woods
+      - trees
+      - travel
+      - journey
+    title: Sun Dappled Trail
+    description: |-
+      You and your party on horseback, travelling through a beautiful forest. [2 Alternate versions for <a href="https://www.patreon.com/posts/34584186">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/199_Sun_Dappled_Trail.mp3
+    file: ./tracks/199_Sun_Dappled_Trail.mp3
+  - $id: song_200
+    tags:
+      - occult
+      - ritual
+      - summoning
+      - Yester Hill
+      - strahd
+      - wind
+      - chant
+    title: Druid Hilltop
+    description: |-
+      High on a hill, amidst a circle of ancient stones, hooded druids peform a dark ritual. [2 Alternate versions for <a href="https://www.patreon.com/posts/34794493">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/200_Druid_Hilltop.mp3
+    file: ./tracks/200_Druid_Hilltop.mp3
+  - $id: song_201
+    tags:
+      - peaceful
+      - rain
+      - calm
+      - mourning
+      - thunder
+      - drama
+      - heroic
+    title: Haven
+    description: |-
+      A safe quiet place to regroup for the next battle. [Alternate version available for <a href="https://www.patreon.com/posts/35325847">Everyone]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/201_Haven.mp3
+    file: ./tracks/201_Haven.mp3
+  - $id: song_202
+    tags:
+      - water
+      - sewars
+      - cave
+      - tunnel
+      - flood
+      - waves
+    title: "Heart: Drowned"
+    description: |-
+      An Official track from Heart: The City Beneath RPG</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/202_Heart_Drowned.mp3
+    file: ./tracks/202_Heart_Drowned.mp3
+  - $id: song_203
+    tags:
+      - forest
+      - woods
+      - beasts
+      - jungle
+      - birds
+      - crows
+    title: "Heart: Briar"
+    description: |-
+      An Official track from Heart: The City Beneath RPG</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/203_Heart_Briar.mp3
+    file: ./tracks/203_Heart_Briar.mp3
+  - $id: song_204
+    tags:
+      - tunnel
+      - decay
+      - rot
+      - flesh
+      - insects
+    title: "Heart: Meat Corridor"
+    description: |-
+      An Official track from Heart: The City Beneath RPG</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/204_Heart_Meat_Corridor.mp3
+    file: ./tracks/204_Heart_Meat_Corridor.mp3
+  - $id: song_205
+    tags:
+      - chaos
+      - nightmare
+      - dreams
+      - alien
+      - terror
+    title: "Heart: Absolution"
+    description: |-
+      An Official track from Heart: The City Beneath RPG</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/205_Heart_Absolution.mp3
+    file: ./tracks/205_Heart_Absolution.mp3
+  - $id: song_206
+    tags:
+      - ropes
+      - bridges
+      - wind
+      - buildings
+      - breeze
+      - crows
+      - vents
+    title: "Heart: High Rise"
+    description: |-
+      An Official track from Heart: The City Beneath RPG</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/206_Heart_High_Rise.mp3
+    file: ./tracks/206_Heart_High_Rise.mp3
+  - $id: song_207
+    tags:
+      - peaceful
+      - breeze
+      - drama
+      - relaxing
+      - technology
+      - dome
+      - greenhouse
+    title: Biodome
+    description: |-
+      A controlled, self-sufficient eco-system. It's not outisde, but it feels like it. [Alternate version available for <a href="https://www.patreon.com/posts/35782372">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/207_Biodome.mp3
+    file: ./tracks/207_Biodome.mp3
+  - $id: song_208
+    tags:
+      - desolate
+      - rural
+      - village
+      - eerie
+      - abandoned
+      - ominous
+      - peaceful
+    title: Ghost Town
+    description: |-
+      The last time you visited, it was full of people. Where is everyone? [2 alternate versions available for <a href="https://www.patreon.com/posts/36028187">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/208_Ghost_Town.mp3
+    file: ./tracks/208_Ghost_Town.mp3
+  - $id: song_209
+    tags:
+      - fight
+      - battle
+      - action
+      - skirmish
+      - clash
+      - melee
+      - scuffle
+      - combat
+    title: Rat Battle
+    description: |-
+      Not every sword is magical. Not every fight is epic. [Alternate version available for <a href="https://www.patreon.com/posts/36279001">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/209_Rat_Battle.mp3
+    file: ./tracks/209_Rat_Battle.mp3
+  - $id: song_210
+    tags:
+      - peaceful
+      - quiet
+      - zen
+      - water
+      - fountain
+      - calm
+      - heal
+    title: Temple Garden
+    description: |-
+      Order and beauty exist in perfect balance here. [Alternate version available for <a href="https://www.patreon.com/posts/36533762">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/210_Temple_Garden.mp3
+    file: ./tracks/210_Temple_Garden.mp3
+  - $id: song_211
+    tags:
+      - action
+      - stealth
+      - cyberpunk
+      - mysterious
+      - sneak
+      - tv
+      - dark
+      - shadows
+    title: Thieves' Guild
+    description: |-
+      Live in shadow. Live for the perfect crime. This is everything. [Alternate version available for <a href="https://www.patreon.com/posts/36812380">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/211_Thieves_Guild.mp3
+    file: ./tracks/211_Thieves_Guild.mp3
+  - $id: song_212
+    tags:
+      - action
+      - magic
+      - fight
+      - battle
+      - heroic
+      - war
+      - magical
+      - heroic
+      - combat
+    title: Witch Mountain
+    description: |-
+      A lively and chaotic night of magic and danger. [Alternate version available for <a href="https://www.patreon.com/posts/37065729">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/212_Witch_Mountain.mp3
+    file: ./tracks/212_Witch_Mountain.mp3
+  - $id: song_213
+    tags:
+      - fire
+      - chaos
+      - destruction
+      - town
+      - flames
+      - waste
+      - hell
+    title: Burning Village
+    description: |-
+      "It was like this when we got here, honest!" [2 Alternate versions available for <a href="https://www.patreon.com/posts/37333390">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/213_Burning_Village.mp3
+    file: ./tracks/213_Burning_Village.mp3
+  - $id: song_214
+    tags:
+      - medieval
+      - cooking
+      - food
+      - restaurant
+      - feast
+      - oven
+    title: Castle Kitchen
+    description: |-
+      A massive, bustling kitchen was often the center of activity in a medieval castle. [3 Alternate versions available for <a href="https://www.patreon.com/posts/37586157">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/214_Castle_Kitchen.mp3
+    file: ./tracks/214_Castle_Kitchen.mp3
+  - $id: song_215
+    tags:
+      - action
+      - combat
+      - Star Wars
+      - spaceship
+      - starship
+      - space opera
+      - lasers
+    title: Space Battle
+    description: |-
+      Epic finale to a galactic conflict. [2 Alternate versions available for <a href="https://www.patreon.com/posts/37851899">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/215_Space_Battle.mp3
+    file: ./tracks/215_Space_Battle.mp3
+  - $id: song_216
+    tags:
+      - medieval
+      - city
+      - town
+      - Waterdeep
+      - society
+      - night
+      - quiet
+    title: "Waterkeep: Night"
+    description: |-
+      Nighttime in the jewel of the north. [2 Alternate versions available for <a href="https://www.patreon.com/posts/38090229">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/216_Waterkeep_Night.mp3
+    file: ./tracks/216_Waterkeep_Night.mp3
+  - $id: song_217
+    tags:
+      - sailing
+      - ship
+      - ocean
+      - waves
+      - nautical
+      - navy
+      - sail
+      - squall
+      - boat
+    title: Storm at Sea
+    description: |-
+      A terrifying squall from the east. The crew must work together to save the ship. [3 Alternate versions available for <a href="https://www.patreon.com/posts/38334109">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/217_Storm_at_Sea.mp3
+    file: ./tracks/217_Storm_at_Sea.mp3
+  - $id: song_218
+    tags:
+      - stealth
+      - dungeon
+      - quiet
+      - tense
+      - sneak
+      - dark
+      - shadows
+      - monster
+    title: Sleeping Ogre
+    description: |-
+      The way is clear, there's just one not-so-small problem. [2 Alternate versions available for <a href="https://www.patreon.com/posts/38571129">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/218_Sleeping_Ogre.mp3
+    file: ./tracks/218_Sleeping_Ogre.mp3
+  - $id: song_219
+    tags:
+      - gnomes
+      - shop
+      - machines
+      - funny
+      - steampunk
+    title: Tinkerer's Workshop
+    description: |-
+      This gnomish proprieter is a wizard with metal. [2 Alternate versions available for <a href="https://www.patreon.com/posts/38838805">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/219_Tinkerers_Workshop.mp3
+    file: ./tracks/219_Tinkerers_Workshop.mp3
+  - $id: song_220
+    tags:
+      - Asian
+      - Chinese
+      - China
+      - martial arts
+      - kung fu
+      - rural
+      - mountain
+      - town
+    title: Wuxia Village
+    description: |-
+      A desolate mountain town awaits a hero. [2 Alternate versions available for <a href="https://www.patreon.com/posts/39105189">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/220_Wuxia_Village.mp3
+    file: ./tracks/220_Wuxia_Village.mp3
+  - $id: song_221
+    tags:
+      - underwater
+      - water
+      - deep
+      - ocean
+      - sea
+      - depths
+      - dive
+      - scuba
+      - shipwreck
+    title: Sunken Treasure
+    description: |-
+      In the depths, lie the bounty. [2 Alternate versions available for <a href="https://www.patreon.com/posts/39348611">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/221_Sunken_Treasure.mp3
+    file: ./tracks/221_Sunken_Treasure.mp3
+  - $id: song_222
+    tags:
+      - Asian
+      - Chinese
+      - China
+      - martial arts
+      - kung fu
+      - rural
+      - peaceful
+      - village
+    title: Wuxia Tea House
+    description: |-
+      A peaceful sanctuary to contemplate the essence of the sword. [2 Alternate versions available for <a href="https://www.patreon.com/posts/39593542">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/222_Wuxia_Tea_House.mp3
+    file: ./tracks/222_Wuxia_Tea_House.mp3
+  - $id: song_223
+    tags:
+      - ocean
+      - sea
+      - water
+      - Saltmarsh
+      - peaceful
+      - breeze
+      - birds
+      - reeds
+    title: Salt Marsh
+    description: |-
+      Between ocean and grasslands, lies this ambiguous, liminal space. [5 Alternate versions available for <a href="https://www.patreon.com/posts/40379467">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/223_Salt_Marsh.mp3
+    file: ./tracks/223_Salt_Marsh.mp3
+  - $id: song_224
+    tags:
+      - stealth
+      - search
+      - house
+      - sneak
+      - dark
+      - shadows
+      - mysterious
+    title: "Mansion: Night"
+    description: |-
+      Secrets are hidden in the great old house. Wait until dark, tread quietly. [2 Alternate versions available for <a href="https://www.patreon.com/posts/40627574">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/224_Mansion_Night.mp3
+    file: ./tracks/224_Mansion_Night.mp3
+  - $id: song_225
+    tags:
+      - 1920s
+      - 1930s
+      - gothic
+      - cthulhu
+      - urban
+      - city
+      - mystery
+    title: New Orleans Noir
+    description: |-
+      Crescent City, 1920s. Something unnatural pervades the usually festive bustle. [2 Alternate versions available for <a href="https://www.patreon.com/posts/40878728">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/225_New_Orleans_Noir.mp3
+    file: ./tracks/225_New_Orleans_Noir.mp3
+  - $id: song_226
+    tags:
+      - 1950s
+      - 1960s
+      - synthesizer
+      - tension
+      - technology
+      - laborotory
+      - science
+    title: 60s Computer Lab
+    description: |-
+      Whirring machines in underground bunkers. The place where disaster is ultimately avoided. [2 Alternate versions available for <a href="https://www.patreon.com/posts/41418123">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/226_60s_Computer_Lab.mp3
+    file: ./tracks/226_60s_Computer_Lab.mp3
+  - $id: song_227
+    tags:
+      - lovecraft
+      - action
+      - chase
+      - tension
+      - monsters
+      - battle
+      - combat
+    title: Terror in the Woods
+    description: |-
+      It's dark, you can hear them closing in. It's time to move. [2 Alternate versions available for <a href="https://www.patreon.com/posts/41670781">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/227_Terror_in_the_Woods.mp3
+    file: ./tracks/227_Terror_in_the_Woods.mp3
+  - $id: song_228
+    tags:
+      - ethereal
+      - psychedelic
+      - trippy
+      - peaceful
+      - calm
+      - quiet
+    title: Mushroom Forest
+    description: |-
+      As you step into the forest, a warm euphoric glow washes over you. [2 Alternate versions available for <a href="https://www.patreon.com/posts/41936625">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/228_Mushroom_Forest.mp3
+    file: ./tracks/228_Mushroom_Forest.mp3
+  - $id: song_229
+    tags:
+      - cyberpunk
+      - police
+      - tension
+      - tense
+      - action
+      - tv
+      - sneak
+      - dark
+      - stealth
+    title: Interrogation Room
+    description: |-
+      Whether you're police or suspect, this room is tense. [2 Alternate versions available for <a href="https://www.patreon.com/posts/42191590">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/229_Interrogation_Room.mp3
+    file: ./tracks/229_Interrogation_Room.mp3
+  - $id: song_230
+    tags:
+      - Strahd
+      - Dracula
+      - vampire
+      - wolf
+      - scary
+      - spooky
+      - gothic
+      - haunted
+      - monster
+      - Halloween
+    title: All Hallows' Eve
+    description: |-
+      "When the sun sets, who doth not look for night?" Halloween 2020 [2 Alternate versions available for <a href="https://www.patreon.com/posts/42483158">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/230_All_Hallows_Eve.mp3
+    file: ./tracks/230_All_Hallows_Eve.mp3
+  - $id: song_231
+    tags:
+      - cold
+      - winter
+      - ice
+      - frozen
+      - north
+      - frost
+      - Frostmaiden
+      - Icewind Dale
+      - arctic
+    title: Icebound Town
+    description: |-
+      One of a series of brutally cold northern towns. Not always friendly. [2 Alternate versions available for <a href="https://www.patreon.com/posts/42741768">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/231_Icebound_Town.mp3
+    file: ./tracks/231_Icebound_Town.mp3
+  - $id: song_232
+    tags:
+      - battle
+      - war
+      - action
+      - robot
+      - Warhammer
+      - drama
+      - fight
+      - boss
+      - epic
+      - combat
+    title: Mech War
+    description: |-
+      Large mechanized armies trying to pulverize each other into scrap. [2 Alternate versions available for <a href="https://www.patreon.com/posts/42995764">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/232_Mech_War.mp3
+    file: ./tracks/232_Mech_War.mp3
+  - $id: song_233
+    tags:
+      - church
+      - temple
+      - cathedral
+      - mechanical
+      - peaceful
+      - ritual
+      - peaceful
+      - steampunk
+    title: The Orrery
+    description: |-
+      A massive mechanical solar system rotates above the monks. Is it science, or devotion? [2 Alternate versions available for <a href="https://www.patreon.com/posts/43249761">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/233_The_Orrery.mp3
+    file: ./tracks/233_The_Orrery.mp3
+  - $id: song_234
+    tags:
+      - peaceful
+      - quiet
+      - water
+      - calm
+      - ethereal
+      - psychedelic
+      - birds
+    title: Lush World
+    description: |-
+      Verdant, colorific, surreal. A world where life begets beauty. [2 Alternate versions available for <a href="https://www.patreon.com/posts/43532608">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/234_Lush_World.mp3
+    file: ./tracks/234_Lush_World.mp3
+  - $id: song_235
+    tags:
+      - peaceful
+      - town
+      - rain
+      - thunder
+      - horses
+      - rural
+    title: Rainy Village
+    description: |-
+      The constant rain makes the townfolk welcoming, and the inn cozier. [2 Alternate versions available for <a href="https://www.patreon.com/posts/43785848">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/235_Rainy_Village.mp3
+    file: ./tracks/235_Rainy_Village.mp3
+  - $id: song_236
+    tags:
+      - dungeon
+      - monsters
+      - dark
+      - cult
+      - church
+      - occult
+      - ritual
+    title: Defiled Temple
+    description: |-
+      Remnants of a secret religious sect lie in ruin. Horrid creatures lurk in the shadows. [2 Alternate versions available for <a href="https://www.patreon.com/posts/44038260">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/236_Defiled_Temple.mp3
+    file: ./tracks/236_Defiled_Temple.mp3
+  - $id: song_237
+    tags:
+      - swords
+      - fight
+      - spar
+      - battle
+      - melee
+      - clash
+      - skirmish
+      - action
+      - castle
+      - combat
+    title: Training Grounds
+    description: |-
+      The bustling courtyard of a castle often included soldiers drilling and sparring. [2 Alternate versions available for <a href="https://www.patreon.com/posts/44301732">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/237_Training_Grounds.mp3
+    file: ./tracks/237_Training_Grounds.mp3
+  - $id: song_238
+    tags:
+      - illithid
+      - dungeon
+      - suspense
+      - brain
+      - elder brain
+      - action
+    title: Mind Flayer Chamber
+    description: |-
+      Deep in the twisting maze of passages lies the elder brain, waiting, throbbing. [2 Alternate versions available for <a href="https://www.patreon.com/posts/44587455">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/238_Mind_Flayer_Chamber.mp3
+    file: ./tracks/238_Mind_Flayer_Chamber.mp3
+  - $id: song_239
+    tags:
+      - police
+      - drama
+      - television
+      - tv
+      - intrigue
+      - investigation
+      - detective
+      - Scandinavian
+    title: Nordic Noir
+    description: |-
+      Bleak landscapes, dark themes and powerful stories. A Scandinavian procedural. [2 Alternate versions available for <a href="https://www.patreon.com/posts/44848077">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/239_Nordic_Noir.mp3
+    file: ./tracks/239_Nordic_Noir.mp3
+  - $id: song_240
+    tags:
+      - palace
+      - regal
+      - royalty
+      - court
+      - gossip
+      - king
+      - queen
+      - Love Letter
+      - salon
+    title: Throne Room
+    description: |-
+      A grand chamber where a monarch granted audience, held council and received homage. [3 Alternate versions available for <a href="https://www.patreon.com/posts/45105490">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/240_Throne_Room.mp3
+    file: ./tracks/240_Throne_Room.mp3
+  - $id: song_241
+    tags:
+      - sailing
+      - ship
+      - ocean
+      - boat
+      - nautical
+      - sea
+      - adventure
+    title: Pirates!
+    description: |-
+      Romantic adventurers, or brigands of the sea. Salty, rum-sodden and irresistable. [3 Alternate versions available for <a href="https://www.patreon.com/posts/45322602">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/241_Pirates.mp3
+    file: ./tracks/241_Pirates.mp3
+  - $id: song_242
+    tags:
+      - dark
+      - cave
+      - lair
+      - dungeon
+      - boss
+      - aragog
+      - tunnel
+      - web
+      - insects
+    title: Spider's Den
+    description: |-
+      A massive arachnid lurks amongst the bones of its victims. [2 Alternate versions available for <a href="https://www.patreon.com/posts/45884332">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/242_Spiders_Den.mp3
+    file: ./tracks/242_Spiders_Den.mp3
+  - $id: song_243
+    tags:
+      - aztec
+      - mayan
+      - temple
+      - forest
+      - birds
+      - humid
+      - insects
+    title: Jungle Ruins
+    description: |-
+      Deep in the jungle, a hidden city, buried for centuries, is revealed. [2 Alternate versions available for <a href="https://www.patreon.com/posts/46167047">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/243_Jungle_Ruins.mp3
+    file: ./tracks/243_Jungle_Ruins.mp3
+  - $id: song_244
+    tags:
+      - ocean
+      - sail
+      - boats
+      - battle
+      - drums
+      - action
+      - Scandinavian
+      - Norse
+      - Nordic
+      - war
+      - combat
+    title: Vikings
+    description: |-
+      "Valhalla, I am coming." - Led Zeppelin [3 Alternate versions available for <a href="https://www.patreon.com/posts/46445508">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/244_Vikings.mp3
+    file: ./tracks/244_Vikings.mp3
+  - $id: song_245
+    tags:
+      - cyberpunk
+      - tension
+      - tv
+      - drama
+      - police
+      - spy
+      - spies
+      - noir
+    title: Secret Facility
+    description: |-
+      You're awake, but remember nothing. Now it's time to escape. [2 Alternate versions available for <a href="https://www.patreon.com/posts/47067869">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/245_Secret_Facility.mp3
+    file: ./tracks/245_Secret_Facility.mp3
+  - $id: song_246
+    tags:
+      - Harry Potter
+      - Olivander
+      - general store
+      - store
+      - potions
+      - supplies
+      - Diagon Alley
+    title: Magic Shoppe
+    description: |-
+      A small shop, at the end of a quiet, cobblestone street. [3 Alternate versions available for <a href="https://www.patreon.com/posts/47366859">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/246_Magic_Shoppe.mp3
+    file: ./tracks/246_Magic_Shoppe.mp3
+  - $id: song_247
+    tags:
+      - west
+      - America
+      - wagon
+      - wagon train
+      - horse
+      - oxen
+      - journey
+      - travel
+    title: Oregon Trail
+    description: |-
+      Strength in numbers, wagon trains headed west for opportunity. [3 Alternate versions available for <a href="https://www.patreon.com/posts/47669458">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/247_Oregon_Trail.mp3
+    file: ./tracks/247_Oregon_Trail.mp3
+  - $id: song_248
+    tags:
+      - Cthulhu
+      - dark
+      - scary
+      - tense
+      - tension
+      - monster
+      - lovecraft
+    title: Alien Reactor
+    description: |-
+      This throbbing mass of bio-electrical energy powers everything. [2 Alternate versions available for <a href="https://www.patreon.com/posts/47956844">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/248_Alien_Reactor.mp3
+    file: ./tracks/248_Alien_Reactor.mp3
+  - $id: song_249
+    tags:
+      - victorian
+      - trains
+      - machines
+      - clocks
+      - gears
+      - airship
+    title: Steampunk Station
+    description: |-
+      A huge central clock, and all manner of contraptions, keep the trains running on time. [2 Alternate versions available for <a href="https://www.patreon.com/posts/48278789">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/249_Steampunk_Station.mp3
+    file: ./tracks/249_Steampunk_Station.mp3
+  - $id: song_250
+    tags:
+      - wolves
+      - dungeon
+      - jail
+      - cellar
+      - castle
+      - monsters
+      - suspense
+    title: Wolf Pens
+    description: |-
+      Deep underground, 3 massive, chained wolves are kept hungry. But for what? [2 Alternate versions available for <a href="https://www.patreon.com/posts/48581425">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/250_Wolf_Pens.mp3
+    file: ./tracks/250_Wolf_Pens.mp3
+  - $id: song_251
+    tags:
+      - library
+      - Candlekeep
+      - fortress
+      - books
+      - knowledge
+      - monks
+      - chant
+    title: Candledeep
+    description: |-
+      A massive library inside a fortress. Is the knowledge worth the price of admission? [2 Alternate versions available for <a href="https://www.patreon.com/posts/48864648">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/251_Candledeep.mp3
+    file: ./tracks/251_Candledeep.mp3
+  - $id: song_252
+    tags:
+      - tomb
+      - dungeon
+      - dark
+      - occult
+      - tomb of horror
+      - underground
+    title: Vault of Terror
+    description: |-
+      A collaboration with world-class adventure designer DMDave! [Alternate versions, plus adventure PDF available for <a href="https://www.patreon.com/posts/49147495">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/252_Vault_of_Terror.mp3
+    file: ./tracks/252_Vault_of_Terror.mp3
+  - $id: song_253
+    tags:
+      - ocean
+      - water
+      - dark
+      - calm
+      - peaceful
+      - quiet
+      - ethereal
+      - scuba
+    title: Submerged
+    description: |-
+      Floating beneath the surface, one world disappears, another awakens. [2 Alternate versions available for <a href="https://www.patreon.com/posts/49441768">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/253_Submerged.mp3
+    file: ./tracks/253_Submerged.mp3
+  - $id: song_254
+    tags:
+      - sand
+      - tatooine
+      - jawas
+      - droids
+      - Star Wars
+      - alien
+      - bazaar
+      - market
+    title: Desert Planet Souk
+    description: |-
+      A sprawling, sand-swept bazaar of junk, droids, and everything between. [3 Alternate versions available for <a href="https://www.patreon.com/posts/49748793">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/254_Desert_Planet_Souk.mp3
+    file: ./tracks/254_Desert_Planet_Souk.mp3
+  - $id: song_255
+    tags:
+      - tavern
+      - pub
+      - inn
+      - Candlekeep
+      - bard
+      - hearth
+    title: The Hearth Inn
+    description: |-
+      A bookish sort of place. Cozy, and bigger on the inside. [2 Alternate versions available for <a href="https://www.patreon.com/posts/50025600">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/255_The_Hearth_Inn.mp3
+    file: ./tracks/255_The_Hearth_Inn.mp3
+  - $id: song_256
+    tags:
+      - snow
+      - battle
+      - boss
+      - dragon
+      - monsters
+      - fight
+      - action
+      - war
+      - combat
+    title: Ice Dragon
+    description: |-
+      Ice dragons are hard to spot in winter, so it's a good thing they like to announce their arrival. [2 Alternate versions available for <a href="https://www.patreon.com/posts/50304367">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/256_Ice_Dragon.mp3
+    file: ./tracks/256_Ice_Dragon.mp3
+  - $id: song_257
+    tags:
+      - rural
+      - town
+      - medieval
+      - peaceful
+      - farm
+      - blacksmith
+      - tinker
+    title: Country Workshop
+    description: |-
+      A place to potter about, fixing things that want fixing. [2 Alternate versions available for <a href="https://www.patreon.com/posts/50583887">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/257_Country_Workshop.mp3
+    file: ./tracks/257_Country_Workshop.mp3
+  - $id: song_258
+    tags:
+      - rot
+      - disease
+      - evil
+      - corrupted
+      - poisoned
+      - tainted
+      - trees
+      - grove
+    title: Blighted Forest
+    description: |-
+      An unnatural rot is spreading through the trees. [2 Alternate versions available for <a href="https://www.patreon.com/posts/50897556">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/258_Blighted_Forest.mp3
+    file: ./tracks/258_Blighted_Forest.mp3
+  - $id: song_259
+    tags:
+      - theatre
+      - drama
+      - auditorium
+      - playhouse
+      - hall
+      - orchestra
+    title: Grand Theater
+    description: |-
+      "The play's the thing..." [3 Alternate versions available for <a href="https://www.patreon.com/posts/51170230">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/259_Grand_Theater.mp3
+    file: ./tracks/259_Grand_Theater.mp3
+  - $id: song_260
+    tags:
+      - airship
+      - flying
+      - sailing
+      - transport
+    title: Skyship
+    description: |-
+      These magestic, flying vessels require powerful magic to create and operate. [2 Alternate versions available for <a href="https://www.patreon.com/posts/51441642">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/260_Skyship.mp3
+    file: ./tracks/260_Skyship.mp3
+  - $id: song_261
+    tags:
+      - battle
+      - war
+      - siege
+      - skirmish
+      - army
+      - soldiers
+      - fight
+      - combat
+    title: Unto the Breach
+    description: |-
+      "When the blast of war blows in our ears, Then imitate the action of the tiger" - W. Shakespeare [2 Alternate versions available for <a href="https://www.patreon.com/posts/51715056">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/261_Unto_the_Breach.mp3
+    file: ./tracks/261_Unto_the_Breach.mp3
+  - $id: song_262
+    tags:
+      - london
+      - dickens
+      - city
+      - ghetto
+      - urban
+      - Jack the Ripper
+      - Sherlock
+      - 19th century
+    title: Victorian Slums
+    description: |-
+      Overcrowded, disease-ridden and poxy. There was nothing charming about it. [2 Alternate versions available for <a href="https://www.patreon.com/posts/52013995">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/262_Victorian_Slums.mp3
+    file: ./tracks/262_Victorian_Slums.mp3
+  - $id: song_263
+    tags:
+      - cave
+      - dark
+      - lair
+      - cavern
+      - dungeon
+      - mountain
+    title: Mysterious Grotto
+    description: |-
+      A dark wind courses through this massive, natural cavern. [2 Alternate versions available for <a href="https://www.patreon.com/posts/52297565">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/263_Mysterious_Grotto.mp3
+    file: ./tracks/263_Mysterious_Grotto.mp3
+  - $id: song_264
+    tags:
+      - battle
+      - war
+      - action
+      - fight
+      - boss
+      - epic
+      - combat
+    title: Base Assault
+    description: |-
+      A ground assault on a heavily fortified position. [2 Alternate versions available for <a href="https://www.patreon.com/posts/52571202">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/264_Base_Assault.mp3
+    file: ./tracks/264_Base_Assault.mp3
+  - $id: song_265
+    tags:
+      - temple
+      - church
+      - cult
+      - mountain
+      - storm
+      - thunder
+      - lightning
+      - wind
+    title: Shrine of Talos
+    description: |-
+      God of storms. God of destruction. Have a good reason for being here. [3 Alternate versions available for <a href="https://www.patreon.com/posts/52840747">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/265_Shrine_of_Talos.mp3
+    file: ./tracks/265_Shrine_of_Talos.mp3
+  - $id: song_266
+    tags:
+      - battle
+      - war
+      - action
+      - fight
+      - boss
+      - combat
+      - epic
+    title: Orbital Prison Break
+    description: |-
+      The galaxy's worst are on the loose. [2 Alternate versions available for <a href="https://www.patreon.com/posts/53121396">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/266_Orbital_Prison_Break.mp3
+    file: ./tracks/266_Orbital_Prison_Break.mp3
+  - $id: song_267
+    tags:
+      - Strahd
+      - Dracula
+      - castle
+      - cthulhu
+      - vampire
+      - library
+      - scary
+      - barovia
+    title: Court of the Count
+    description: |-
+      Your strangely alluring host beckons you to join him in his private study. [2 Alternate versions available for <a href="https://www.patreon.com/posts/53410014">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/267_Court_of_the_Count.mp3
+    file: ./tracks/267_Court_of_the_Count.mp3
+  - $id: song_268
+    tags:
+      - interstellar
+      - stars
+      - space
+      - star trek
+      - space travel
+    title: "Starforged: Space"
+    description: |-
+      <a href="https://www.ironswornrpg.com/product-ironsworn-starforged"><img src="https://images.tabletopaudio.com/starforged-logo_sm.png"></a>Alternate versions available for <a href="https://www.patreon.com/posts/53680520">Patreon Patrons</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/268_Starforged_Space.mp3
+    file: ./tracks/268_Starforged_Space.mp3
+  - $id: song_269
+    tags:
+      - exploration
+      - alien
+      - planet
+      - star trek
+    title: "Starforged: Planetside"
+    description: |-
+      <a href="https://www.ironswornrpg.com/product-ironsworn-starforged"><img src="https://images.tabletopaudio.com/starforged-logo_sm.png"></a>Alternate versions available for <a href="https://www.patreon.com/posts/53680520">Patreon Patrons</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/269_Starforged_Planetside.mp3
+    file: ./tracks/269_Starforged_Planetside.mp3
+  - $id: song_270
+    tags:
+      - settlement
+      - outpost
+      - colony
+      - star trek
+      - alien
+    title: "Starforged: Sojourn"
+    description: |-
+      <a href="https://www.ironswornrpg.com/product-ironsworn-starforged"><img src="https://images.tabletopaudio.com/starforged-logo_sm.png"></a>Alternate versions available for <a href="https://www.patreon.com/posts/53680520">Patreon Patrons</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/270_Starforged_Sojourn.mp3
+    file: ./tracks/270_Starforged_Sojourn.mp3
+  - $id: song_271
+    tags:
+      - action
+      - combat
+      - Star Wars
+      - spaceship
+      - starship
+      - space
+      - lasers
+      - battle
+    title: "Starforged: Fray"
+    description: |-
+      <a href="https://www.ironswornrpg.com/product-ironsworn-starforged"><img src="https://images.tabletopaudio.com/starforged-logo_sm.png"></a>Alternate versions available for <a href="https://www.patreon.com/posts/53680520">Patreon Patrons</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/271_Starforged_Fray.mp3
+    file: ./tracks/271_Starforged_Fray.mp3
+  - $id: song_272
+    tags:
+      - abandoned
+      - derelict
+      - relics
+      - technology
+      - alien
+    title: "Starforged: Vault"
+    description: |-
+      <a href="https://www.ironswornrpg.com/product-ironsworn-starforged"><img src="https://images.tabletopaudio.com/starforged-logo_sm.png"></a>Alternate versions available for <a href="https://www.patreon.com/posts/53680520">Patreon Patrons</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/272_Starforged_Vault.mp3
+    file: ./tracks/272_Starforged_Vault.mp3
+  - $id: song_273
+    tags:
+      - steampunk
+      - mechanical
+      - gears
+      - dance
+      - 1920s
+      - 1930s
+      - gnome
+      - workshop
+    title: Arcane Clockworks
+    description: |-
+      A beautifully chaotic, and frenzied environment for work, or play. [2 Alternate versions available for <a href="https://www.patreon.com/posts/53949503">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/273_Arcane_Clockworks.mp3
+    file: ./tracks/273_Arcane_Clockworks.mp3
+  - $id: song_274
+    tags:
+      - rites
+      - jungle
+      - beach
+      - waterfall
+      - spirits
+      - ritual
+      - voodoo
+    title: Jungle Shaman
+    description: |-
+      Between dense jungle, and the ocean, a Shaman calls forth ancestral spirits. [2 Alternate versions available for <a href="https://www.patreon.com/posts/54219220">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/274_Jungle_Shaman.mp3
+    file: ./tracks/274_Jungle_Shaman.mp3
+  - $id: song_275
+    tags:
+      - druids
+      - elven
+      - elf
+      - forest
+      - woods
+      - ritual
+      - peaceful
+      - emerald enclave
+    title: Lorekeeper Grove
+    description: |-
+      Nature must be protected. [2 Alternate versions available for <a href="https://www.patreon.com/posts/54516328">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/275_Lorekeeper_Grove.mp3
+    file: ./tracks/275_Lorekeeper_Grove.mp3
+  - $id: song_276
+    tags:
+      - dwarf
+      - dwarven
+      - smith
+      - fire
+      - metal
+      - blacksmith
+      - moria
+      - khazad dum
+    title: Forge of Fury
+    description: |-
+      Dwarven metalwork takes focus, and dedication. [2 Alternate versions available for <a href="https://www.patreon.com/posts/54787608">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/276_Forge_of_Fury.mp3
+    file: ./tracks/276_Forge_of_Fury.mp3
+  - $id: song_277
+    tags:
+      - peaceful
+      - ocean
+      - waves
+      - planet
+      - dawn
+      - exploration
+    title: A New Beginning
+    description: |-
+      A new dawn breaks, and new adventures begin. [2 Alternate versions available for <a href="https://www.patreon.com/posts/55054382">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/277_A_New_Beginning.mp3
+    file: ./tracks/277_A_New_Beginning.mp3
+  - $id: song_278
+    tags:
+      - rural
+      - medieval
+      - town
+      - village
+      - agriculture
+      - peaceful
+    title: Farmyard
+    description: |-
+      A small plot of land, well tended. [3 Alternate versions available for <a href="https://www.patreon.com/posts/55920032">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/278_Farmyard.mp3
+    file: ./tracks/278_Farmyard.mp3
+  - $id: song_279
+    tags:
+      - rural
+      - medieval
+      - village
+      - town
+      - diseased
+      - evil
+      - defiled
+      - rotten
+    title: Blighted Farm
+    description: |-
+      Something has befouled your once productive farm. [2 Alternate versions available for <a href="https://www.patreon.com/posts/56193188">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/279_Blighted_Farm.mp3
+    file: ./tracks/279_Blighted_Farm.mp3
+  - $id: song_280
+    tags:
+      - urban
+      - skyscraper
+      - city
+      - rooftop
+      - cyberpunk
+    title: The City Above
+    description: |-
+      High above the city, there is peace, and possibility. [3 Alternate versions available for <a href="https://www.patreon.com/posts/56466914">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/280_The_City_Above.mp3
+    file: ./tracks/280_The_City_Above.mp3
+  - $id: song_281
+    tags:
+      - action
+      - combat
+      - battle
+      - drama
+      - army
+      - adventure
+    title: Escape from Shadow
+    description: |-
+      The road is long, and frought with peril. May the light guide you. [2 Alternate versions available for <a href="https://www.patreon.com/posts/new-ambience-56757536">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/281_Escape_from_Shadow.mp3
+    file: ./tracks/281_Escape_from_Shadow.mp3
+  - $id: song_282
+    tags:
+      - action
+      - combat
+      - chase
+      - horses
+      - horseback
+      - forest
+      - woods
+      - pagan
+      - Witcher
+    title: The Wild Hunt
+    description: |-
+      Charging through the forest on horseback. Woe be your prey. [2 Alternate versions available for <a href="https://www.patreon.com/posts/57083653">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/282_The_Wild_Hunt.mp3
+    file: ./tracks/282_The_Wild_Hunt.mp3
+  - $id: song_283
+    tags:
+      - cyberpunk
+      - computers
+      - stealth
+      - suspense
+      - tech
+      - noir
+      - drama
+      - investigation
+    title: Pattern Recognition
+    description: |-
+      Hack the system, stay in the shadows. [2 Alternate versions available for <a href="https://www.patreon.com/posts/57357335">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/283_Pattern_Recognition.mp3
+    file: ./tracks/283_Pattern_Recognition.mp3
+  - $id: song_284
+    tags:
+      - souk
+      - arab
+      - arabian
+      - sand
+      - camels
+      - market
+      - desert
+      - camels
+      - spice
+      - "Ank'Harel"
+      - Ank Harel
+    title: Oasis City
+    description: |-
+      A glimmering desert city, built on the most precious commodity of all. Water. [3 Alternate versions available for <a href="https://www.patreon.com/posts/57637258">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/284_Oasis_City.mp3
+    file: ./tracks/284_Oasis_City.mp3
+  - $id: song_285
+    tags:
+      - Apothecaria
+      - town
+      - village
+      - mountain
+    title: High Rannoc Village
+    description: |-
+      <a href="https://blackwellwriter.itch.io/apothecaria"></br><img src="https://images.tabletopaudio.com/apothecaria_logo.png"></a>Alternate versions available for <a href="https://www.patreon.com/posts/57928311">Patreon Patrons</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/285_High_Rannoc_Village.mp3
+    file: ./tracks/285_High_Rannoc_Village.mp3
+  - $id: song_286
+    tags:
+      - Apothecaria
+      - swamp
+      - insects
+      - goblins
+      - dryads
+      - ruins
+    title: Blastfire Bog
+    description: |-
+      <a href="https://blackwellwriter.itch.io/apothecaria"></br><img src="https://images.tabletopaudio.com/apothecaria_logo.png"></a>Alternate versions available for <a href="https://www.patreon.com/posts/57928311">Patreon Patrons</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/286_Blastfire_Bog.mp3
+    file: ./tracks/286_Blastfire_Bog.mp3
+  - $id: song_287
+    tags:
+      - Apothecaria
+      - city
+      - chaos
+      - chaotic
+      - demons
+      - magical
+    title: The Strange
+    description: |-
+      <a href="https://blackwellwriter.itch.io/apothecaria"></br><img src="https://images.tabletopaudio.com/apothecaria_logo.png"></a>Alternate versions available for <a href="https://www.patreon.com/posts/57928311">Patreon Patrons</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/287_The_Strange.mp3
+    file: ./tracks/287_The_Strange.mp3
+  - $id: song_288
+    tags:
+      - ocean
+      - sea
+      - underwater
+      - Netherdeep
+      - depths
+      - water
+      - abyss
+    title: Everdeep
+    description: |-
+      A vast underwater city, hidden for millennia. [2 Alternate versions available for <a href="https://www.patreon.com/posts/58255313">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/288_Everdeep.mp3
+    file: ./tracks/288_Everdeep.mp3
+  - $id: song_289
+    tags:
+      - alien
+      - object
+      - temple
+      - Dune
+      - Numenera
+      - technology
+    title: Ancient Artifact
+    description: |-
+      A mysterious object, dormant for centuries, begins to thrum with energy. [2 Alternate versions available for <a href="https://www.patreon.com/posts/58541725">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/289_Ancient_Artifact.mp3
+    file: ./tracks/289_Ancient_Artifact.mp3
+  - $id: song_290
+    tags:
+      - horse
+      - carriage
+      - cart
+      - oxen
+      - ox
+      - oxcart
+      - travel
+      - drama
+      - Skyrim
+    title: Wagon Ride
+    description: |-
+      A solemn ride to an uncertain destination. How did you get here? What have you done? [2 Alternate versions available for <a href="https://www.patreon.com/posts/58820278">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/290_Wagon_Ride.mp3
+    file: ./tracks/290_Wagon_Ride.mp3
+  - $id: song_291
+    tags:
+      - detective
+      - Cthulhu
+      - vintage
+      - noir
+      - private eye
+      - film noir
+      - Lovecraft
+      - mythos
+    title: Invstigator's Office
+    description: |-
+      Boston, 1919. Strange things are afoot. You've been hired to look into them. [2 Alternate versions available for <a href="https://www.patreon.com/posts/59089233">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/291_Investigators_Office.mp3
+    file: ./tracks/291_Investigators_Office.mp3
+  - $id: song_292
+    tags:
+      - Cthulhu
+      - harbor
+      - boats
+      - fishing
+      - village
+      - whaling
+      - mythos
+      - Lovecraft
+    title: Bleakwater Docks
+    description: |-
+      This turn-of-the-century, New England fishing village has a dark secret. [2 Alternate versions available for <a href="https://www.patreon.com/posts/59382525">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/292_Bleakwater_Docks.mp3
+    file: ./tracks/292_Bleakwater_Docks.mp3
+  - $id: song_293
+    tags:
+      - Cthulhu
+      - Lovecraft
+      - mythos
+      - hospital
+      - asylum
+    title: Sanitarium
+    description: |-
+      A private facility on a windy bluff. Most patients never leave. [2 Alternate versions available for <a href="https://www.patreon.com/posts/59676157">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/293_Sanitarium.mp3
+    file: ./tracks/293_Sanitarium.mp3
+  - $id: song_294
+    tags:
+      - medieval
+      - town
+      - city
+      - alley
+      - urban
+      - chase
+      - Witcher
+    title: Cutpurse Pursuit
+    description: |-
+      A sharp-eyed scamp wanders a medieval city's back alleys. [2 Alternate versions available for <a href="https://www.patreon.com/posts/60221928">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/294_Cutpurse_Pursuit.mp3
+    file: ./tracks/294_Cutpurse_Pursuit.mp3
+  - $id: song_295
+    tags:
+      - cyberpunk
+      - city
+      - urban
+      - traffic
+      - night
+    title: Closing Time
+    description: |-
+      Last call, before you make the winding walk home in Dark City. [2 Alternate versions available for <a href="https://www.patreon.com/posts/60467372">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/295_Closing_Time.mp3
+    file: ./tracks/295_Closing_Time.mp3
+  - $id: song_296
+    tags:
+      - winter
+      - ice
+      - arctic
+      - north
+      - cold
+      - freezing
+      - snow
+    title: The Frozen Trail
+    description: |-
+      A serene and snowy backdrop, against which anything can happen. [4 Alternate versions available for <a href="https://www.patreon.com/posts/60768331">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/296_The_Frozen_Trail.mp3
+    file: ./tracks/296_The_Frozen_Trail.mp3
+  - $id: song_297
+    tags:
+      - camp
+      - encampment
+      - campsite
+      - refugee
+      - retreat
+      - sad
+      - campfire
+    title: Survivors' Bivouac
+    description: |-
+      A rag tag group stops to make camp, and reflect on what went wrong. [2 Alternate versions available for <a href="https://www.patreon.com/posts/61074941">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/297_Survivors_Bivouac.mp3
+    file: ./tracks/297_Survivors_Bivouac.mp3
+  - $id: song_298
+    tags:
+      - volcano
+      - crater
+      - fire
+      - fiery
+      - evil
+      - hades
+      - underworld
+      - brimstone
+    title: Gateway to Hell
+    description: |-
+      A foul, smoldering pit, reeking of brimstone and disappointment. [2 Alternate versions available for <a href="https://www.patreon.com/posts/61373899">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/298_Gateway_to_Hell.mp3
+    file: ./tracks/298_Gateway_to_Hell.mp3
+  - $id: song_299
+    tags:
+      - ruins
+      - ancient
+      - death
+      - city
+      - decay
+      - rubble
+      - crypt
+      - grave
+      - tomb
+    title: Necropolis
+    description: |-
+      A massive, spirit-filled city of the dead. Don't kick the skulls. [2 Alternate versions available for <a href="https://www.patreon.com/posts/61681345">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/299_Necropolis.mp3
+    file: ./tracks/299_Necropolis.mp3
+  - $id: song_300
+    tags:
+      - space
+      - spaceship
+      - stars
+      - star trek
+      - expanse
+      - rocket
+      - starship
+      - engines
+    title: Burn Maneuver
+    description: |-
+      An interstellar vessel prepares for braking. Buckle in. [2 Alternate versions available for <a href="https://www.patreon.com/posts/62016161">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/300_Burn_Maneuver.mp3
+    file: ./tracks/300_Burn_Maneuver.mp3
+  - $id: song_301
+    tags:
+      - water
+      - magic
+      - peaceful
+      - ritual
+      - temple
+      - ethereal
+      - blood
+      - arcane
+    title: Pool of Radiance
+    description: |-
+      Iridescent liquid swirls in its depths. A potent source of arcane energy. [2 Alternate versions available for <a href="https://www.patreon.com/posts/62341443">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/301_Pool_of_Radiance.mp3
+    file: ./tracks/301_Pool_of_Radiance.mp3
+  - $id: song_302
+    tags:
+      - water
+      - bazaar
+      - vendor
+      - river
+      - inlet
+      - shop
+      - wares
+      - canal
+    title: Floating Market
+    description: |-
+      A misty morning on the canals. Vendors and buyers go about their routines. [2 Alternate versions available for <a href="https://www.patreon.com/posts/62645377">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/302_Floating_Market.mp3
+    file: ./tracks/302_Floating_Market.mp3
+  - $id: song_303
+    tags:
+      - witches
+      - witchcraft
+      - coven
+      - ritual
+      - seance
+      - occult
+      - magic
+    title: Summoning
+    description: |-
+      A coven prepares to summon an ancient spirit. [2 Alternate versions available for <a href="https://www.patreon.com/posts/62953495">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/303_Summoning.mp3
+    file: ./tracks/303_Summoning.mp3
+  - $id: song_304
+    tags:
+      - vikings
+      - battle
+      - camp
+      - bivouac
+      - suspense
+      - dread
+      - ominous
+    title: Fog of War
+    description: |-
+      A small band of warriors prepares for battle. [2 Alternate versions available for <a href="https://www.patreon.com/posts/63278086">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/304_Fog_of_War.mp3
+    file: ./tracks/304_Fog_of_War.mp3
+  - $id: song_305
+    tags:
+      - wind
+      - quiet
+      - peaceful
+      - safe
+      - verdant
+      - vale
+      - trees
+      - birds
+    title: Hidden Valley
+    description: |-
+      After an arduous journey, the vista before you is a welcome sight. [2 Alternate versions available for <a href="https://www.patreon.com/posts/63582894">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/305_Hidden_Valley.mp3
+    file: ./tracks/305_Hidden_Valley.mp3
+  - $id: song_306
+    tags:
+      - nuclear
+      - cataclysm
+      - wasteland
+      - survivor
+      - dead
+      - barren
+    title: Aftermath
+    description: |-
+      Humanity always finds a way. [2 Alternate versions available for <a href="https://www.patreon.com/posts/63877092">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/306_Aftermath.mp3
+    file: ./tracks/306_Aftermath.mp3
+  - $id: song_307
+    tags:
+      - Star Wars
+      - Tusken Raiders
+      - Tatooine
+      - desert
+      - battle
+      - action
+      - combat
+    title: Sand Raiders
+    description: |-
+      On a desert planet, far far away. A nomadic tribe struggles for survival. [2 Alternate versions available for <a href="https://www.patreon.com/posts/64169499">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/307_Sand_Raiders.mp3
+    file: ./tracks/307_Sand_Raiders.mp3
+  - $id: song_308
+    tags:
+      - port
+      - docks
+      - underground
+      - underdark
+      - cave
+      - Skullport
+      - Waterdeep
+      - drow
+    title: Skullwharf
+    description: |-
+      A dangerous, underground port accessible only by sea caves and secret passages. [2 Alternate versions available for <a href="https://www.patreon.com/posts/64478907">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/308_Skullwharf.mp3
+    file: ./tracks/308_Skullwharf.mp3
+  - $id: song_309
+    tags:
+      - gateway
+      - portal
+      - dimension
+      - lich
+      - sword coast
+      - blood
+      - wizards
+    title: Bloodgate
+    description: |-
+      A dimensional portal tended to by dark wizards. [4 Alternate versions available for <a href="https://www.patreon.com/posts/64803727">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/309_Bloodgate.mp3
+    file: ./tracks/309_Bloodgate.mp3
+  - $id: song_310
+    tags:
+      - Star Wars
+      - Tatooine
+      - desert
+      - barren
+      - water
+      - Dune
+    title: Moisture Farm
+    description: |-
+      On a desolate planet, massive machines extract water from the air. [4 Alternate versions available for <a href="https://www.patreon.com/posts/65090220">Patreon Patrons]</a>
+    artist: Tabletop Audio
+    src: https://sounds.tabletopaudio.com/310_Moisture_Farm.mp3
+    file: ./tracks/310_Moisture_Farm.mp3

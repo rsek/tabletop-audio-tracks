@@ -1,0 +1,83 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "$ref": "#/definitions/TabletopAudioTracks",
+  "definitions": {
+    "TabletopAudioTracks": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "tracks": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Track"
+          }
+        }
+      },
+      "required": [
+        "tracks"
+      ],
+      "title": "TabletopAudioTracks"
+    },
+    "Track": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "$id": {
+          "type": "string"
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "artist": {
+          "$ref": "#/definitions/Artist"
+        },
+        "file": {
+          "description": "The corresponding audio file in this package.",
+          "type": "string",
+          "format": "uri",
+          "pattern": "^./tracks/[0-9]+_[A-z-]+\\.mp3$",
+          "qt-uri-extensions": [
+            ".mp3"
+          ]
+        },
+        "src": {
+          "description": "The url of the original file.",
+          "pattern": "^https://sounds\\.tabletopaudio\\.com/[0-9]+_[A-z0-9-]+\\.mp3$",
+          "type": "string",
+          "format": "uri",
+          "qt-uri-protocols": [
+            "https"
+          ],
+          "qt-uri-extensions": [
+            ".mp3"
+          ]
+        }
+      },
+      "required": [
+        "$id",
+        "artist",
+        "description",
+        "src",
+        "tags",
+        "title"
+      ],
+      "title": "Track"
+    },
+    "Artist": {
+      "type": "string",
+      "enum": [
+        "Tabletop Audio"
+      ],
+      "title": "Artist"
+    }
+  }
+}

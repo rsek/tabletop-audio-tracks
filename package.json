@@ -1,0 +1,18 @@
+{
+  "name": "tabletop-audio-tracks",
+  "version": "0.1",
+  "description": "Audio tracks from TabletopAudio with metadata.",
+  "main": "index.js",
+  "author": "rsek",
+  "license": "CC BY-NC-ND 4.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {
+    "async": "^3.2.3",
+    "fast-glob": "^3.2.11",
+    "progress": "^2.0.3",
+    "request": "^2.88.2",
+    "yaml": "^2.0.1"
+  }
+}
