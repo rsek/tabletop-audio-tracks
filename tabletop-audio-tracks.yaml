@@ -4678,3 +4678,45 @@ tracks:
     artist: Tabletop Audio
     src: https://sounds.tabletopaudio.com/310_Moisture_Farm.mp3
     file: ./tracks/310_Moisture_Farm.mp3
+  - $id: 311
+    tags:
+      - marsh
+      - monster
+      - spooky
+      - boat
+      - water
+      - bog
+      - creature
+    title: Swamp Thing
+    description: |-
+      Deep within a fetid swamp, an ancient creature lurks. [2 Alternate versions available for [Patreon Patrons](https://www.patreon.com/posts/65672829)]</a>
+    src: https://sounds.tabletopaudio.com/311_Swamp_Thing.mp3
+    file: ./tracks/311_Swamp_Thing.mp3
+  - $id: 312
+    tags:
+      - space
+      - interstellar
+      - mothership
+      - spaceship
+      - stars
+      - expanse
+      - star trek
+    title: Generation Ship
+    description: |-
+      The last survivors of a dying world continue their 500-year journey to a new home. [2 Alternate versions available for <a href="https://www.patreon.com/posts/65997666" >Patreon Patrons]</a>
+    src: https://sounds.tabletopaudio.com/312_Generation_Ship.mp3
+    file: ./tracks/312_Generation_Ship.mp3
+  - $id: 313
+    tags:
+      - woods
+      - forest
+      - trees
+      - spooky
+      - nymph
+      - feywild
+      - fey
+    title: Dusk of the Dryad
+    description: |-
+      Walk the forest gently, lest you upset the dryad. [2 Alternate versions available for <a href="https://www.patreon.com/posts/66292532">Patreon Patrons]</a>
+    src: https://sounds.tabletopaudio.com/313_Dusk_of_the_Dryad.mp3
+    file: ./tracks/313_Dusk_of_the_Dryad.mp3
